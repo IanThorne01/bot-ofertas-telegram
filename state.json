@@ -13,7 +13,8 @@
   "ct:E38739321D555E1861373E686DCF3405": 1792801367,
   "ct:61EB0964C99007F861373E686DCF3405": 1792801367,
   "ct:9B399A7C9AFC27BF61373E686DCF3405": 1792803738,
-  "ct:7CDEED5353AD474761373E686DCF3405": 1792803738
+  "ct:7CDEED5353AD474761373E686DCF3405": 1792803738,
+  "ct:103609EECD08252161373E686DCF3405": 1792819599
  },
  "pendientes": {
   "67c47d23d799": {
@@ -68,15 +69,15 @@
   }
  },
  "guardadas": {},
- "offset": 675255159,
+ "offset": 675255160,
  "avisos": {
   "linkedin": 1792801353
  },
  "pausado": false,
- "ultima_busqueda": 1792803738,
+ "ultima_busqueda": 1792819599,
  "ultimo_resumen": "2026-10-23",
  "acum": {
-  "nuevas": 14,
+  "nuevas": 15,
   "enviadas": 10,
   "casi": [
    {
@@ -100,8 +101,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1792803713,
-  "computrabajo": 1792803737,
+  "getonboard": 1792819576,
+  "computrabajo": 1792819599,
   "remotive": 1792803738
  }
 }
