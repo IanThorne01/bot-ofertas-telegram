@@ -1,0 +1,82 @@
+{
+  "buscar": [
+    "auxiliar de datos",
+    "analista de datos",
+    "analista de reportes",
+    "soporte tecnico",
+    "auxiliar administrativo",
+    "auxiliar de ingenieria",
+    "practicante sistemas"
+  ],
+  "ubicacion": "Colombia",
+  "solo_remoto": true,
+  "antiguedad_horas": 72,
+  "puntaje_minimo": 3,
+  "max_por_corrida": 10,
+  "intervalo_busqueda_min": 60,
+  "hora_resumen": 8,
+  "fuentes": {
+    "getonboard": true,
+    "computrabajo": true,
+    "remotive": true,
+    "linkedin": false
+  },
+  "intervalo_fuente_horas": {
+    "remotive": 6
+  },
+  "remotive_ubicaciones": [
+    "worldwide",
+    "anywhere",
+    "latam",
+    "latin america",
+    "americas",
+    "south america",
+    "colombia"
+  ],
+  "palabras_suman": {
+    "excel": 2,
+    "sql": 3,
+    "datos": 2,
+    "reportes": 2,
+    "power bi": 2,
+    "junior": 2,
+    "auxiliar": 2,
+    "practicante": 1,
+    "remoto": 2,
+    "teletrabajo": 2,
+    "autocad": 1,
+    "sap": 1,
+    "java": 1,
+    "c++": 1,
+    "html": 1,
+    "css": 1,
+    "data analyst": 3,
+    "analyst": 1,
+    "support": 1,
+    "assistant": 1,
+    "data entry": 2,
+    "reporting": 1,
+    "entry level": 2,
+    "intern": 1
+  },
+  "palabras_restan": {
+    "senior": -5,
+    "sr": -3,
+    "lider": -2,
+    "5 anos": -4,
+    "ventas": -3,
+    "comercial": -3,
+    "lead": -3,
+    "manager": -2,
+    "principal": -4,
+    "staff": -3,
+    "sales": -3
+  },
+  "excluir_si_el_titulo_dice": [
+    "gerente",
+    "director",
+    "jefe",
+    "vendedor",
+    "asesor comercial"
+  ]
+}
