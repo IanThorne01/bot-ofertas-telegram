@@ -11,7 +11,9 @@
   "ct:F3366276DF6A1FB761373E686DCF3405": 1792801367,
   "ct:D9128948969D9DC061373E686DCF3405": 1792801367,
   "ct:E38739321D555E1861373E686DCF3405": 1792801367,
-  "ct:61EB0964C99007F861373E686DCF3405": 1792801367
+  "ct:61EB0964C99007F861373E686DCF3405": 1792801367,
+  "ct:9B399A7C9AFC27BF61373E686DCF3405": 1792803738,
+  "ct:7CDEED5353AD474761373E686DCF3405": 1792803738
  },
  "pendientes": {
   "67c47d23d799": {
@@ -58,19 +60,24 @@
    "titulo": "Practicante de Innovación, Desarrollo de Producto y Negocio",
    "empresa": "Practicante de Innovación, Desarrollo de Producto y Negocio",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-de-innovacion-desarrollo-de-producto-y-negocio-estudiantes-de-ingenierias-sistemas-software-industrial-proyectos-ciencias-datos-estadistica-en-cali-E38739321D555E1861373E686DCF3405"
+  },
+  "530f93697f6a": {
+   "titulo": "Analista Junior SST",
+   "empresa": "Analista Junior SST",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-junior-sst-en-bogota-dc-7CDEED5353AD474761373E686DCF3405"
   }
  },
  "guardadas": {},
- "offset": 675255157,
+ "offset": 675255159,
  "avisos": {
   "linkedin": 1792801353
  },
  "pausado": false,
- "ultima_busqueda": 1792801367,
+ "ultima_busqueda": 1792803738,
  "ultimo_resumen": "2026-10-23",
  "acum": {
-  "nuevas": 12,
-  "enviadas": 9,
+  "nuevas": 14,
+  "enviadas": 10,
   "casi": [
    {
     "titulo": "Analista de área o proyectos",
@@ -91,5 +98,10 @@
     "puntaje": 2
    }
   ]
+ },
+ "ultima_fuente": {
+  "getonboard": 1792803713,
+  "computrabajo": 1792803737,
+  "remotive": 1792803738
  }
 }
