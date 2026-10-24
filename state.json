@@ -15,7 +15,18 @@
   "ct:9B399A7C9AFC27BF61373E686DCF3405": 1792803738,
   "ct:7CDEED5353AD474761373E686DCF3405": 1792803738,
   "ct:103609EECD08252161373E686DCF3405": 1792819599,
-  "rem:2091161": 1792835081
+  "rem:2091161": 1792835081,
+  "ct:F4FC236BC76391B461373E686DCF3405": 1792849141,
+  "ct:848B790F161736CA61373E686DCF3405": 1792849141,
+  "ct:9B11FAF8539230ED61373E686DCF3405": 1792849141,
+  "ct:FABC3548A007979461373E686DCF3405": 1792849141,
+  "ct:BD8F4341F675B26A61373E686DCF3405": 1792849141,
+  "ct:4BEEAA5A210CFB9161373E686DCF3405": 1792849141,
+  "ct:9552FC0E44B0D32F61373E686DCF3405": 1792849141,
+  "ct:ED4D79198179507661373E686DCF3405": 1792849141,
+  "ct:505BA9092FD6FC2361373E686DCF3405": 1792849141,
+  "ct:99E0AA61F930691E61373E686DCF3405": 1792849141,
+  "ct:65CA45AD4D4322F061373E686DCF3405": 1792849141
  },
  "pendientes": {
   "67c47d23d799": {
@@ -67,6 +78,21 @@
    "titulo": "Analista Junior SST",
    "empresa": "Analista Junior SST",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-junior-sst-en-bogota-dc-7CDEED5353AD474761373E686DCF3405"
+  },
+  "69ec9bcf265e": {
+   "titulo": "Analista de Métricas y Datos",
+   "empresa": "Analista de Métricas y Datos",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-metricas-y-datos-antioquia-reemplazo-de-licencia-de-maternidad-en-medellin-848B790F161736CA61373E686DCF3405"
+  },
+  "8f661e72ab99": {
+   "titulo": "Aprendiz/ estudiante auxiliar administrativo",
+   "empresa": "Aprendiz/ estudiante auxiliar administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-aprendiz-estudiante-auxiliar-administrativo-en-bogota-dc-65CA45AD4D4322F061373E686DCF3405"
+  },
+  "7ca5989ffb72": {
+   "titulo": "Aprendiz o Practicante de Soporte Técnico y Sistemas",
+   "empresa": "Aprendiz o Practicante de Soporte Técnico y Sistemas",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-aprendiz-o-practicante-de-soporte-tecnico-y-sistemas-en-bogota-dc-4BEEAA5A210CFB9161373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -75,35 +101,35 @@
   "linkedin": 1792801353
  },
  "pausado": false,
- "ultima_busqueda": 1792835081,
- "ultimo_resumen": "2026-10-23",
+ "ultima_busqueda": 1792849141,
+ "ultimo_resumen": "2026-10-24",
  "acum": {
-  "nuevas": 16,
-  "enviadas": 10,
+  "nuevas": 11,
+  "enviadas": 3,
   "casi": [
    {
-    "titulo": "Analista de área o proyectos",
-    "empresa": "Analista de área o proyectos",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-area-o-proyectos-data-cobranza-y-fidelizacion-en-bogota-dc-B7015D133FD4AA0C61373E686DCF3405",
+    "titulo": "Aprendiz de contabilidad y finanzas",
+    "empresa": "Aprendiz de contabilidad y finanzas",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-aprendiz-de-contabilidad-y-finanzas-en-bogota-dc-F4FC236BC76391B461373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Analista de Crédito Empresarial / Credit Risk Analyst",
-    "empresa": "Analista de Crédito Empresarial / Credit Risk Analyst",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-credito-empresarial-credit-risk-analyst-ingles-intermedio-en-bogota-dc-4E52F7F2298C6BE761373E686DCF3405",
+    "titulo": "Analista de Ciberseguridad",
+    "empresa": "Analista de Ciberseguridad",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-ciberseguridad-en-bogota-dc-9B11FAF8539230ED61373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Agentes de call center SIN experiencia / Soporte técnico",
-    "empresa": "Agentes de call center SIN experiencia / Soporte técnico",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-agentes-de-call-center-sin-experiencia-soporte-tecnico-posibilidad-de-trabajar-desde-casa-en-bogota-dc-F3366276DF6A1FB761373E686DCF3405",
+    "titulo": "Analista de Marketing y Contenidos Digitales",
+    "empresa": "Analista de Marketing y Contenidos Digitales",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-marketing-y-contenidos-digitales-en-cali-FABC3548A007979461373E686DCF3405",
     "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1792835055,
-  "computrabajo": 1792835081,
+  "getonboard": 1792849117,
+  "computrabajo": 1792849140,
   "remotive": 1792835081
  }
 }
