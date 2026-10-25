@@ -41,7 +41,16 @@
   "ct:EDDB53835504ACA161373E686DCF3405": 1792861211,
   "ct:95D7C21FCE99F0A861373E686DCF3405": 1792869901,
   "ct:F585D6722AB0588E61373E686DCF3405": 1792869901,
-  "ct:0ABDAC361EE24BC461373E686DCF3405": 1792898867
+  "ct:0ABDAC361EE24BC461373E686DCF3405": 1792898867,
+  "ct:2D880E60A0B5010D61373E686DCF3405": 1792934586,
+  "ct:E8CD1BE508B0AEA261373E686DCF3405": 1792934586,
+  "ct:BBA0697515AD70CF61373E686DCF3405": 1792934586,
+  "ct:7E2AA7C88085276361373E686DCF3405": 1792934586,
+  "ct:03BC039103A02F3861373E686DCF3405": 1792934586,
+  "ct:27085A5FDF3935D561373E686DCF3405": 1792934586,
+  "ct:7747D240B4EB4D0E61373E686DCF3405": 1792934586,
+  "ct:686F335526E1BBAE61373E686DCF3405": 1792934586,
+  "ct:947D2809BE2501CC61373E686DCF3405": 1792934586
  },
  "pendientes": {
   "67c47d23d799": {
@@ -133,6 +142,21 @@
    "titulo": "aprendiz / estudiante auxiliar administrativo",
    "empresa": "aprendiz / estudiante auxiliar administrativo",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-aprendiz-estudiante-auxiliar-administrativo-en-bogota-dc-112466ECDDCFA28F61373E686DCF3405"
+  },
+  "c1b8d35f93a5": {
+   "titulo": "analista de datos",
+   "empresa": "analista de datos",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-en-bogota-dc-2D880E60A0B5010D61373E686DCF3405"
+  },
+  "fdde304d0c36": {
+   "titulo": "Analista de datos maestros comerciales",
+   "empresa": "Analista de datos maestros comerciales",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-maestros-comerciales-en-medellin-E8CD1BE508B0AEA261373E686DCF3405"
+  },
+  "5a2bec670063": {
+   "titulo": "Auxiliar Administrativo de Gestión de Infraestructura",
+   "empresa": "Auxiliar Administrativo de Gestión de Infraestructura",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-de-gestion-de-infraestructura-cali-en-cali-686F335526E1BBAE61373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -141,35 +165,35 @@
   "linkedin": 1792801353
  },
  "pausado": false,
- "ultima_busqueda": 1792917665,
- "ultimo_resumen": "2026-10-24",
+ "ultima_busqueda": 1792934586,
+ "ultimo_resumen": "2026-10-25",
  "acum": {
-  "nuevas": 26,
-  "enviadas": 8,
+  "nuevas": 9,
+  "enviadas": 3,
   "casi": [
    {
-    "titulo": "Aprendiz de contabilidad y finanzas",
-    "empresa": "Aprendiz de contabilidad y finanzas",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-aprendiz-de-contabilidad-y-finanzas-en-bogota-dc-F4FC236BC76391B461373E686DCF3405",
+    "titulo": "Analista Contable",
+    "empresa": "Analista Contable",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-contable-medellin-en-medellin-BBA0697515AD70CF61373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Analista de Ciberseguridad",
-    "empresa": "Analista de Ciberseguridad",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-ciberseguridad-en-bogota-dc-9B11FAF8539230ED61373E686DCF3405",
+    "titulo": "Analista de operaciones servicio al cliente seguros",
+    "empresa": "Analista de operaciones servicio al cliente seguros",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-operaciones-servicio-al-cliente-seguros-en-medellin-7E2AA7C88085276361373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Analista de Marketing y Contenidos Digitales",
-    "empresa": "Analista de Marketing y Contenidos Digitales",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-marketing-y-contenidos-digitales-en-cali-FABC3548A007979461373E686DCF3405",
+    "titulo": "Analista de Nomina",
+    "empresa": "Analista de Nomina",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-nomina-en-bogota-dc-03BC039103A02F3861373E686DCF3405",
     "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1792917641,
-  "computrabajo": 1792917665,
+  "getonboard": 1792934559,
+  "computrabajo": 1792934584,
   "remotive": 1792917665
  }
 }
