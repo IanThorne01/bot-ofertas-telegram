@@ -169,30 +169,11 @@
  },
  "pausado": true,
  "ultima_busqueda": 1792974240,
- "ultimo_resumen": "2026-10-25",
+ "ultimo_resumen": "2026-10-26",
  "acum": {
-  "nuevas": 11,
-  "enviadas": 3,
-  "casi": [
-   {
-    "titulo": "Analista Contable",
-    "empresa": "Analista Contable",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-contable-medellin-en-medellin-BBA0697515AD70CF61373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Analista de operaciones servicio al cliente seguros",
-    "empresa": "Analista de operaciones servicio al cliente seguros",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-operaciones-servicio-al-cliente-seguros-en-medellin-7E2AA7C88085276361373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Analista de Nomina",
-    "empresa": "Analista de Nomina",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-nomina-en-bogota-dc-03BC039103A02F3861373E686DCF3405",
-    "puntaje": 2
-   }
-  ]
+  "nuevas": 0,
+  "enviadas": 0,
+  "casi": []
  },
  "ultima_fuente": {
   "getonboard": 1792965894,
