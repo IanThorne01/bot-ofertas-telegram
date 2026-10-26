@@ -162,12 +162,12 @@
   }
  },
  "guardadas": {},
- "offset": 675255163,
+ "offset": 675255164,
  "avisos": {
   "linkedin": 1792801353,
   "getonboard": 1792974217
  },
- "pausado": false,
+ "pausado": true,
  "ultima_busqueda": 1792974240,
  "ultimo_resumen": "2026-10-25",
  "acum": {
