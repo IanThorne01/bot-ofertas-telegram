@@ -61,7 +61,11 @@
   "ct:066256A9626CBCED61373E686DCF3405": 1793151486,
   "ct:2E07249CA299E7E161373E686DCF3405": 1793151486,
   "ct:6E126CEC3A8EF65061373E686DCF3405": 1793151486,
-  "ct:44545359B7C73CAC61373E686DCF3405": 1793151486
+  "ct:44545359B7C73CAC61373E686DCF3405": 1793151486,
+  "ct:8083D8C5EE41BBDA61373E686DCF3405": 1793197395,
+  "ct:7F37B189F16F9FFA61373E686DCF3405": 1793197395,
+  "ct:520DB0C51FF4F4E161373E686DCF3405": 1793197395,
+  "rem:2091134": 1793197395
  },
  "pendientes": {
   "67c47d23d799": {
@@ -194,38 +198,38 @@
  "offset": 675255166,
  "avisos": {
   "linkedin": 1792801353,
-  "getonboard": 1792974217
+  "getonboard": 1793197372
  },
  "pausado": false,
- "ultima_busqueda": 1793172536,
- "ultimo_resumen": "2026-10-27",
+ "ultima_busqueda": 1793197395,
+ "ultimo_resumen": "2026-10-28",
  "acum": {
-  "nuevas": 9,
-  "enviadas": 4,
+  "nuevas": 4,
+  "enviadas": 0,
   "casi": [
    {
-    "titulo": "Analista de Operaciones Back Office – Seguros Corporativos",
-    "empresa": "Analista de Operaciones Back Office – Seguros Corporativos",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-operaciones-back-office-seguros-corporativos-en-bogota-dc-C05C2EAB29E99BFC61373E686DCF3405",
+    "titulo": "Analista de Monitoreo de Transacciones",
+    "empresa": "Analista de Monitoreo de Transacciones",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-monitoreo-de-transacciones-bilingue-en-medellin-8083D8C5EE41BBDA61373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Analista de finanzas",
-    "empresa": "Analista de finanzas",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-finanzas-en-bogota-dc-B3839F87BDA5C3E161373E686DCF3405",
+    "titulo": "¡Trabajo urgente Medellin! Asesor de soporte técnico con o sin experiencia",
+    "empresa": "¡Trabajo urgente Medellin! Asesor de soporte técnico con o sin experiencia",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-urgente-medellin-asesor-de-soporte-tecnico-con-o-sin-experiencia-teletrabajo-despues-del-primer-me-en-medellin-7F37B189F16F9FFA61373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Ingeniero",
-    "empresa": "Ingeniero",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-soporte-tecnico-laboratorio-clinico-bogota-en-bogota-dc-2E07249CA299E7E161373E686DCF3405",
+    "titulo": "técnico soporte",
+    "empresa": "técnico soporte",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-soporte-barranquilla-en-barranquilla-520DB0C51FF4F4E161373E686DCF3405",
     "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
   "getonboard": 1793172511,
-  "computrabajo": 1793172536,
-  "remotive": 1793151484
+  "computrabajo": 1793197395,
+  "remotive": 1793197395
  }
 }
