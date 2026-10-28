@@ -52,7 +52,16 @@
   "ct:686F335526E1BBAE61373E686DCF3405": 1792934586,
   "ct:947D2809BE2501CC61373E686DCF3405": 1792934586,
   "ct:B9EBC3C87085323D61373E686DCF3405": 1792948245,
-  "ct:3065BA179175AFCF61373E686DCF3405": 1792948245
+  "ct:3065BA179175AFCF61373E686DCF3405": 1792948245,
+  "ct:34C1D704DA3EF5AD61373E686DCF3405": 1793151486,
+  "ct:6BB398E19BE8A9E761373E686DCF3405": 1793151486,
+  "ct:BECDFFF94B1C3CE661373E686DCF3405": 1793151486,
+  "ct:C05C2EAB29E99BFC61373E686DCF3405": 1793151486,
+  "ct:B3839F87BDA5C3E161373E686DCF3405": 1793151486,
+  "ct:066256A9626CBCED61373E686DCF3405": 1793151486,
+  "ct:2E07249CA299E7E161373E686DCF3405": 1793151486,
+  "ct:6E126CEC3A8EF65061373E686DCF3405": 1793151486,
+  "ct:44545359B7C73CAC61373E686DCF3405": 1793151486
  },
  "pendientes": {
   "67c47d23d799": {
@@ -159,25 +168,64 @@
    "titulo": "Auxiliar Administrativo de Gestión de Infraestructura",
    "empresa": "Auxiliar Administrativo de Gestión de Infraestructura",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-de-gestion-de-infraestructura-cali-en-cali-686F335526E1BBAE61373E686DCF3405"
+  },
+  "3264dd84a186": {
+   "titulo": "Analista de datos Python",
+   "empresa": "Analista de datos Python",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-python-data-analyst-python-en-bogota-dc-34C1D704DA3EF5AD61373E686DCF3405"
+  },
+  "a3f914f11de5": {
+   "titulo": "Analista de datos / minero de datos",
+   "empresa": "Analista de datos / minero de datos",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-minero-de-datos-en-bogota-dc-6BB398E19BE8A9E761373E686DCF3405"
+  },
+  "aeb681c2ce9b": {
+   "titulo": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
+   "empresa": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-back-officetecnicos-o-tecnologosauxiliar-administrativo-6-meses-en-call-center-en-bogota-dc-6E126CEC3A8EF65061373E686DCF3405"
+  },
+  "0ab3ac96819d": {
+   "titulo": "Practicante Universitario Sistemas y Tecnologia",
+   "empresa": "Practicante Universitario Sistemas y Tecnologia",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-universitario-sistemas-y-tecnologia-en-bogota-dc-44545359B7C73CAC61373E686DCF3405"
   }
  },
  "guardadas": {},
- "offset": 675255165,
+ "offset": 675255166,
  "avisos": {
   "linkedin": 1792801353,
   "getonboard": 1792974217
  },
- "pausado": true,
- "ultima_busqueda": 1792974240,
+ "pausado": false,
+ "ultima_busqueda": 1793151486,
  "ultimo_resumen": "2026-10-27",
  "acum": {
-  "nuevas": 0,
-  "enviadas": 0,
-  "casi": []
+  "nuevas": 9,
+  "enviadas": 4,
+  "casi": [
+   {
+    "titulo": "Analista de Operaciones Back Office – Seguros Corporativos",
+    "empresa": "Analista de Operaciones Back Office – Seguros Corporativos",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-operaciones-back-office-seguros-corporativos-en-bogota-dc-C05C2EAB29E99BFC61373E686DCF3405",
+    "puntaje": 2
+   },
+   {
+    "titulo": "Analista de finanzas",
+    "empresa": "Analista de finanzas",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-finanzas-en-bogota-dc-B3839F87BDA5C3E161373E686DCF3405",
+    "puntaje": 2
+   },
+   {
+    "titulo": "Ingeniero",
+    "empresa": "Ingeniero",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-soporte-tecnico-laboratorio-clinico-bogota-en-bogota-dc-2E07249CA299E7E161373E686DCF3405",
+    "puntaje": 2
+   }
+  ]
  },
  "ultima_fuente": {
-  "getonboard": 1792965894,
-  "computrabajo": 1792974240,
-  "remotive": 1792974240
+  "getonboard": 1793151460,
+  "computrabajo": 1793151484,
+  "remotive": 1793151484
  }
 }
