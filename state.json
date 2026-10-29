@@ -202,30 +202,11 @@
  },
  "pausado": true,
  "ultima_busqueda": 1793197395,
- "ultimo_resumen": "2026-10-28",
+ "ultimo_resumen": "2026-10-29",
  "acum": {
-  "nuevas": 4,
+  "nuevas": 0,
   "enviadas": 0,
-  "casi": [
-   {
-    "titulo": "Analista de Monitoreo de Transacciones",
-    "empresa": "Analista de Monitoreo de Transacciones",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-monitoreo-de-transacciones-bilingue-en-medellin-8083D8C5EE41BBDA61373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "¡Trabajo urgente Medellin! Asesor de soporte técnico con o sin experiencia",
-    "empresa": "¡Trabajo urgente Medellin! Asesor de soporte técnico con o sin experiencia",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-urgente-medellin-asesor-de-soporte-tecnico-con-o-sin-experiencia-teletrabajo-despues-del-primer-me-en-medellin-7F37B189F16F9FFA61373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "técnico soporte",
-    "empresa": "técnico soporte",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-soporte-barranquilla-en-barranquilla-520DB0C51FF4F4E161373E686DCF3405",
-    "puntaje": 2
-   }
-  ]
+  "casi": []
  },
  "ultima_fuente": {
   "getonboard": 1793172511,
