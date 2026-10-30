@@ -74,7 +74,18 @@
   "ct:9978BD1B16C35BDC61373E686DCF3405": 1793346321,
   "ct:E51795588F77FB2B61373E686DCF3405": 1793346321,
   "ct:AA03765C09A0AF9461373E686DCF3405": 1793346321,
-  "ct:5B6D1794641E168661373E686DCF3405": 1793346321
+  "ct:5B6D1794641E168661373E686DCF3405": 1793346321,
+  "ct:3CBC0BA86AD7DB2B61373E686DCF3405": 1793370970,
+  "ct:7F33DC8377FBE0D161373E686DCF3405": 1793370970,
+  "ct:98C6EB7291DDD6C161373E686DCF3405": 1793370970,
+  "ct:29921D4A6F2B6F6E61373E686DCF3405": 1793370970,
+  "ct:A308D39803726D8B61373E686DCF3405": 1793370970,
+  "ct:9D14FC6A9929413C61373E686DCF3405": 1793370970,
+  "ct:060363CCA597A2AA61373E686DCF3405": 1793370970,
+  "ct:678DB462C900680B61373E686DCF3405": 1793370970,
+  "ct:8E6FAEC55777C66661373E686DCF3405": 1793370970,
+  "ct:15B3FF69CBCAF74561373E686DCF3405": 1793370970,
+  "ct:2AA8E9E92CF2736761373E686DCF3405": 1793370970
  },
  "pendientes": {
   "67c47d23d799": {
@@ -231,6 +242,41 @@
    "titulo": "Practicante Sistemas",
    "empresa": "Practicante Sistemas",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-sistemas-trabajo-hibridoremoto-en-bogota-dc-5B6D1794641E168661373E686DCF3405"
+  },
+  "06147c4b2194": {
+   "titulo": "Analista de datos",
+   "empresa": "Analista de datos",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-en-bello-3CBC0BA86AD7DB2B61373E686DCF3405"
+  },
+  "cd6c3c108ca3": {
+   "titulo": "analista de datos",
+   "empresa": "analista de datos",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-en-cali-7F33DC8377FBE0D161373E686DCF3405"
+  },
+  "fc0e915c1c79": {
+   "titulo": "Analista de Datos Maestros",
+   "empresa": "Analista de Datos Maestros",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-maestros-en-medellin-98C6EB7291DDD6C161373E686DCF3405"
+  },
+  "3cce1cdc522c": {
+   "titulo": "Asesor de soporte tecnico teletrabajo // áreas de sistemas, soporte o afines.",
+   "empresa": "Asesor de soporte tecnico teletrabajo // áreas de sistemas, soporte o afines.",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-de-soporte-tecnico-teletrabajo-areas-de-sistemas-soporte-o-afines-en-medellin-15B3FF69CBCAF74561373E686DCF3405"
+  },
+  "d9cb5ab22649": {
+   "titulo": "Cash Application Analyst",
+   "empresa": "Cash Application Analyst",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-cash-application-analyst-gbs-ssc-en-bogota-dc-29921D4A6F2B6F6E61373E686DCF3405"
+  },
+  "0da353898a4e": {
+   "titulo": "Tech support Agent",
+   "empresa": "Tech support Agent",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tech-support-agent-advance-english-level-en-bogota-dc-8E6FAEC55777C66661373E686DCF3405"
+  },
+  "03607fca9826": {
+   "titulo": "Independent Contractor  Remote Administrative and Accounting Assistant Colombia",
+   "empresa": "Independent Contractor  Remote Administrative and Accounting Assistant Colombia",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-independent-contractor-remote-administrative-and-accounting-assistant-colombia-en-cali-2AA8E9E92CF2736761373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -240,35 +286,35 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793346321,
- "ultimo_resumen": "2026-10-29",
+ "ultima_busqueda": 1793370970,
+ "ultimo_resumen": "2026-10-30",
  "acum": {
-  "nuevas": 9,
-  "enviadas": 6,
+  "nuevas": 11,
+  "enviadas": 7,
   "casi": [
    {
-    "titulo": "Analista de Abastecimiento (Planeación de inventarios Supply Chain)",
-    "empresa": "Analista de Abastecimiento (Planeación de inventarios Supply Chain)",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-abastecimiento-planeacion-de-inventarios-supply-chain-en-bogota-dc-B8A3E8636FCC923C61373E686DCF3405",
+    "titulo": "Analista de Operaciones",
+    "empresa": "Analista de Operaciones",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-operaciones-en-cali-A308D39803726D8B61373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Asesores de soporte técnico SIN experiencia",
-    "empresa": "Asesores de soporte técnico SIN experiencia",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesores-de-soporte-tecnico-sin-experiencia-posibilidad-de-trabajar-desde-casa-en-bogota-dc-9978BD1B16C35BDC61373E686DCF3405",
+    "titulo": "Revisor Aduanero",
+    "empresa": "Revisor Aduanero",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-revisor-aduanero-agencia-de-aduanas-en-medellin-9D14FC6A9929413C61373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Auxiliar Administrativo con Experiencia en Asesoría Financiera y Ventas en el Sector Bancario",
-    "empresa": "Auxiliar Administrativo con Experiencia en Asesoría Financiera y Ventas en el Sector Bancario",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-con-experiencia-en-asesoria-financiera-y-ventas-en-el-sector-bancario-en-bogota-dc-E51795588F77FB2B61373E686DCF3405",
-    "puntaje": 0
+    "titulo": "Ingeniero de Soporte técnico Posventa",
+    "empresa": "Ingeniero de Soporte técnico Posventa",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-soporte-tecnico-posventa-experiencia-en-el-sector-automotriz-en-bogota-dc-060363CCA597A2AA61373E686DCF3405",
+    "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793172511,
-  "computrabajo": 1793346318,
-  "remotive": 1793346318
+  "getonboard": 1793370943,
+  "computrabajo": 1793370967,
+  "remotive": 1793370967
  }
 }
