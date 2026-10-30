@@ -85,7 +85,17 @@
   "ct:678DB462C900680B61373E686DCF3405": 1793370970,
   "ct:8E6FAEC55777C66661373E686DCF3405": 1793370970,
   "ct:15B3FF69CBCAF74561373E686DCF3405": 1793370970,
-  "ct:2AA8E9E92CF2736761373E686DCF3405": 1793370970
+  "ct:2AA8E9E92CF2736761373E686DCF3405": 1793370970,
+  "ct:EAC957AE4B9296F561373E686DCF3405": 1793389469,
+  "ct:A6CE3BCDE1AC81B661373E686DCF3405": 1793389469,
+  "ct:46CF2E93E4EF43B261373E686DCF3405": 1793389469,
+  "ct:20BE79401C09055761373E686DCF3405": 1793389469,
+  "ct:17679ABB86C1350161373E686DCF3405": 1793389469,
+  "ct:0AC5063FC0C59D8F61373E686DCF3405": 1793389469,
+  "ct:7CB11A02A119192761373E686DCF3405": 1793389469,
+  "ct:9615B0514ED2C5A361373E686DCF3405": 1793389469,
+  "ct:5F9543B0D136CF5561373E686DCF3405": 1793389469,
+  "ct:769035F779D164C061373E686DCF3405": 1793389469
  },
  "pendientes": {
   "67c47d23d799": {
@@ -277,6 +287,26 @@
    "titulo": "Independent Contractor  Remote Administrative and Accounting Assistant Colombia",
    "empresa": "Independent Contractor  Remote Administrative and Accounting Assistant Colombia",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-independent-contractor-remote-administrative-and-accounting-assistant-colombia-en-cali-2AA8E9E92CF2736761373E686DCF3405"
+  },
+  "50c40d7d55ef": {
+   "titulo": "Analista de Ciencia de Datos (Mercadeo)",
+   "empresa": "Analista de Ciencia de Datos (Mercadeo)",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-ciencia-de-datos-mercadeo-bogota-en-bogota-dc-EAC957AE4B9296F561373E686DCF3405"
+  },
+  "562a84179fc0": {
+   "titulo": "Auxiliar administrativo/a Internacional",
+   "empresa": "Auxiliar administrativo/a Internacional",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativoa-internacional-bogota-en-bogota-dc-9615B0514ED2C5A361373E686DCF3405"
+  },
+  "4e44e87f0bba": {
+   "titulo": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
+   "empresa": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-back-officetecnicos-o-tecnologosauxiliar-administrativo-6-meses-en-call-center-en-bogota-dc-5F9543B0D136CF5561373E686DCF3405"
+  },
+  "2ed4a780ecd2": {
+   "titulo": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
+   "empresa": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-back-officetecnicos-o-tecnologosauxiliar-administrativo-6-meses-en-call-center-en-bogota-dc-769035F779D164C061373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -286,11 +316,11 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793370970,
+ "ultima_busqueda": 1793389469,
  "ultimo_resumen": "2026-10-30",
  "acum": {
-  "nuevas": 11,
-  "enviadas": 7,
+  "nuevas": 21,
+  "enviadas": 11,
   "casi": [
    {
     "titulo": "Analista de Operaciones",
@@ -314,7 +344,7 @@
  },
  "ultima_fuente": {
   "getonboard": 1793370943,
-  "computrabajo": 1793370967,
+  "computrabajo": 1793389467,
   "remotive": 1793370967
  }
 }
