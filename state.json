@@ -65,7 +65,16 @@
   "ct:8083D8C5EE41BBDA61373E686DCF3405": 1793197395,
   "ct:7F37B189F16F9FFA61373E686DCF3405": 1793197395,
   "ct:520DB0C51FF4F4E161373E686DCF3405": 1793197395,
-  "rem:2091134": 1793197395
+  "rem:2091134": 1793197395,
+  "ct:8E60F46288B8CFA261373E686DCF3405": 1793346321,
+  "ct:7208C6514141ADAC61373E686DCF3405": 1793346321,
+  "ct:FE059CC506644E1061373E686DCF3405": 1793346321,
+  "ct:B8A3E8636FCC923C61373E686DCF3405": 1793346321,
+  "ct:66C5A7115C5874BF61373E686DCF3405": 1793346321,
+  "ct:9978BD1B16C35BDC61373E686DCF3405": 1793346321,
+  "ct:E51795588F77FB2B61373E686DCF3405": 1793346321,
+  "ct:AA03765C09A0AF9461373E686DCF3405": 1793346321,
+  "ct:5B6D1794641E168661373E686DCF3405": 1793346321
  },
  "pendientes": {
   "67c47d23d799": {
@@ -192,25 +201,74 @@
    "titulo": "Practicante Universitario Sistemas y Tecnologia",
    "empresa": "Practicante Universitario Sistemas y Tecnologia",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-universitario-sistemas-y-tecnologia-en-bogota-dc-44545359B7C73CAC61373E686DCF3405"
+  },
+  "9704d2d02325": {
+   "titulo": "analista de Datos Power BI medios digitales",
+   "empresa": "analista de Datos Power BI medios digitales",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-power-bi-medios-digitales-en-bogota-dc-FE059CC506644E1061373E686DCF3405"
+  },
+  "1c6db646ec3d": {
+   "titulo": "Auxiliar de Ingeniería Electromecánica/Teletrabajo",
+   "empresa": "Auxiliar de Ingeniería Electromecánica/Teletrabajo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-ingenieria-electromecanicateletrabajo-en-medellin-AA03765C09A0AF9461373E686DCF3405"
+  },
+  "81964415698d": {
+   "titulo": "Auxiliar de Monitoreo de fraude y sarlaf",
+   "empresa": "Auxiliar de Monitoreo de fraude y sarlaf",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-monitoreo-de-fraude-y-sarlaf-en-bogota-dc-8E60F46288B8CFA261373E686DCF3405"
+  },
+  "7ec9ae837bd0": {
+   "titulo": "Analista de Datos de Nómina",
+   "empresa": "Analista de Datos de Nómina",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-de-nomina-en-medellin-7208C6514141ADAC61373E686DCF3405"
+  },
+  "88cb603ef689": {
+   "titulo": "Tier 1 Support Technician Hibrido / Ingles C1",
+   "empresa": "Tier 1 Support Technician Hibrido / Ingles C1",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tier-1-support-technician-hibrido-ingles-c1-en-bogota-dc-66C5A7115C5874BF61373E686DCF3405"
+  },
+  "5830d1f8dcae": {
+   "titulo": "Practicante Sistemas",
+   "empresa": "Practicante Sistemas",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-sistemas-trabajo-hibridoremoto-en-bogota-dc-5B6D1794641E168661373E686DCF3405"
   }
  },
  "guardadas": {},
- "offset": 675255167,
+ "offset": 675255168,
  "avisos": {
   "linkedin": 1792801353,
-  "getonboard": 1793197372
+  "getonboard": 1793346294
  },
- "pausado": true,
- "ultima_busqueda": 1793197395,
+ "pausado": false,
+ "ultima_busqueda": 1793346321,
  "ultimo_resumen": "2026-10-29",
  "acum": {
-  "nuevas": 0,
-  "enviadas": 0,
-  "casi": []
+  "nuevas": 9,
+  "enviadas": 6,
+  "casi": [
+   {
+    "titulo": "Analista de Abastecimiento (Planeación de inventarios Supply Chain)",
+    "empresa": "Analista de Abastecimiento (Planeación de inventarios Supply Chain)",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-abastecimiento-planeacion-de-inventarios-supply-chain-en-bogota-dc-B8A3E8636FCC923C61373E686DCF3405",
+    "puntaje": 2
+   },
+   {
+    "titulo": "Asesores de soporte técnico SIN experiencia",
+    "empresa": "Asesores de soporte técnico SIN experiencia",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesores-de-soporte-tecnico-sin-experiencia-posibilidad-de-trabajar-desde-casa-en-bogota-dc-9978BD1B16C35BDC61373E686DCF3405",
+    "puntaje": 2
+   },
+   {
+    "titulo": "Auxiliar Administrativo con Experiencia en Asesoría Financiera y Ventas en el Sector Bancario",
+    "empresa": "Auxiliar Administrativo con Experiencia en Asesoría Financiera y Ventas en el Sector Bancario",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-con-experiencia-en-asesoria-financiera-y-ventas-en-el-sector-bancario-en-bogota-dc-E51795588F77FB2B61373E686DCF3405",
+    "puntaje": 0
+   }
+  ]
  },
  "ultima_fuente": {
   "getonboard": 1793172511,
-  "computrabajo": 1793197395,
-  "remotive": 1793197395
+  "computrabajo": 1793346318,
+  "remotive": 1793346318
  }
 }
