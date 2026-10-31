@@ -100,7 +100,9 @@
   "ct:89A7683F4C7A312A61373E686DCF3405": 1793414369,
   "ct:99EF6331AA9BD7AC61373E686DCF3405": 1793414369,
   "ct:01D539B357E1C7F861373E686DCF3405": 1793414369,
-  "rem:2091165": 1793436892
+  "rem:2091165": 1793436892,
+  "ct:3AF8C7A42B3FD0A061373E686DCF3405": 1793459201,
+  "ct:66382DD1E4BDE5B361373E686DCF3405": 1793459201
  },
  "pendientes": {
   "67c47d23d799": {
@@ -321,35 +323,29 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793436892,
- "ultimo_resumen": "2026-10-30",
+ "ultima_busqueda": 1793459201,
+ "ultimo_resumen": "2026-10-31",
  "acum": {
-  "nuevas": 26,
-  "enviadas": 11,
+  "nuevas": 2,
+  "enviadas": 0,
   "casi": [
    {
-    "titulo": "Analista de Operaciones",
-    "empresa": "Analista de Operaciones",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-operaciones-en-cali-A308D39803726D8B61373E686DCF3405",
+    "titulo": "Analista de planeación financiera  Bogotá",
+    "empresa": "Analista de planeación financiera  Bogotá",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-planeacion-financiera-bogota-experiencia-de-tres-anos-en-el-area-en-bogota-dc-3AF8C7A42B3FD0A061373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Revisor Aduanero",
-    "empresa": "Revisor Aduanero",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-revisor-aduanero-agencia-de-aduanas-en-medellin-9D14FC6A9929413C61373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Ingeniero de Soporte técnico Posventa",
-    "empresa": "Ingeniero de Soporte técnico Posventa",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-soporte-tecnico-posventa-experiencia-en-el-sector-automotriz-en-bogota-dc-060363CCA597A2AA61373E686DCF3405",
+    "titulo": "Estudia Técnico Laboral Administrativo",
+    "empresa": "Estudia Técnico Laboral Administrativo",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-estudia-tecnico-laboral-administrativo-con-apoyo-economico-personal-con-discapacidad-en-cali-66382DD1E4BDE5B361373E686DCF3405",
     "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793436868,
-  "computrabajo": 1793436892,
-  "remotive": 1793436892
+  "getonboard": 1793459177,
+  "computrabajo": 1793459201,
+  "remotive": 1793459201
  }
 }
