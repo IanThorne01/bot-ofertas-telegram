@@ -102,7 +102,10 @@
   "ct:01D539B357E1C7F861373E686DCF3405": 1793414369,
   "rem:2091165": 1793436892,
   "ct:3AF8C7A42B3FD0A061373E686DCF3405": 1793459201,
-  "ct:66382DD1E4BDE5B361373E686DCF3405": 1793459201
+  "ct:66382DD1E4BDE5B361373E686DCF3405": 1793459201,
+  "ct:F1B23D02D525766761373E686DCF3405": 1793474351,
+  "ct:5A9DBDD3323D1F8761373E686DCF3405": 1793474351,
+  "ct:254989FFF363387F61373E686DCF3405": 1793474351
  },
  "pendientes": {
   "67c47d23d799": {
@@ -314,6 +317,16 @@
    "titulo": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
    "empresa": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-back-officetecnicos-o-tecnologosauxiliar-administrativo-6-meses-en-call-center-en-bogota-dc-769035F779D164C061373E686DCF3405"
+  },
+  "e6a3c8c8b44e": {
+   "titulo": "Analista Junior Conciliaciones",
+   "empresa": "Analista Junior Conciliaciones",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-junior-conciliaciones-en-bogota-dc-F1B23D02D525766761373E686DCF3405"
+  },
+  "817cd138f0fe": {
+   "titulo": "Auxiliar administrativo",
+   "empresa": "Auxiliar administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-atencion-chat-en-bogota-dc-254989FFF363387F61373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -323,11 +336,11 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793459201,
+ "ultima_busqueda": 1793474351,
  "ultimo_resumen": "2026-10-31",
  "acum": {
-  "nuevas": 2,
-  "enviadas": 0,
+  "nuevas": 5,
+  "enviadas": 2,
   "casi": [
    {
     "titulo": "Analista de planeación financiera  Bogotá",
@@ -340,12 +353,18 @@
     "empresa": "Estudia Técnico Laboral Administrativo",
     "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-estudia-tecnico-laboral-administrativo-con-apoyo-economico-personal-con-discapacidad-en-cali-66382DD1E4BDE5B361373E686DCF3405",
     "puntaje": 2
+   },
+   {
+    "titulo": "Analista financiero JR",
+    "empresa": "Analista financiero JR",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-financiero-jr-en-bogota-dc-5A9DBDD3323D1F8761373E686DCF3405",
+    "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793459177,
-  "computrabajo": 1793459201,
+  "getonboard": 1793474326,
+  "computrabajo": 1793474350,
   "remotive": 1793459201
  }
 }
