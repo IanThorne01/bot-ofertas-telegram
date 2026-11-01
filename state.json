@@ -106,7 +106,8 @@
   "ct:F1B23D02D525766761373E686DCF3405": 1793474351,
   "ct:5A9DBDD3323D1F8761373E686DCF3405": 1793474351,
   "ct:254989FFF363387F61373E686DCF3405": 1793474351,
-  "ct:2CF8675083879A3761373E686DCF3405": 1793496633
+  "ct:2CF8675083879A3761373E686DCF3405": 1793496633,
+  "ct:1E57EBD29AABA0AE61373E686DCF3405": 1793562065
  },
  "pendientes": {
   "67c47d23d799": {
@@ -328,6 +329,11 @@
    "titulo": "Auxiliar administrativo",
    "empresa": "Auxiliar administrativo",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-atencion-chat-en-bogota-dc-254989FFF363387F61373E686DCF3405"
+  },
+  "9b0b76764f8c": {
+   "titulo": "Auxiliar contable y administrativo",
+   "empresa": "Auxiliar contable y administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-contable-y-administrativo-poblado-en-medellin-1E57EBD29AABA0AE61373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -337,16 +343,16 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793545787,
+ "ultima_busqueda": 1793562065,
  "ultimo_resumen": "2026-11-01",
  "acum": {
-  "nuevas": 0,
-  "enviadas": 0,
+  "nuevas": 1,
+  "enviadas": 1,
   "casi": []
  },
  "ultima_fuente": {
-  "getonboard": 1793545762,
-  "computrabajo": 1793545787,
+  "getonboard": 1793562039,
+  "computrabajo": 1793562064,
   "remotive": 1793545787
  }
 }
