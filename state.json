@@ -107,7 +107,8 @@
   "ct:5A9DBDD3323D1F8761373E686DCF3405": 1793474351,
   "ct:254989FFF363387F61373E686DCF3405": 1793474351,
   "ct:2CF8675083879A3761373E686DCF3405": 1793496633,
-  "ct:1E57EBD29AABA0AE61373E686DCF3405": 1793562065
+  "ct:1E57EBD29AABA0AE61373E686DCF3405": 1793562065,
+  "ct:B4DBCED93C2C8CFF61373E686DCF3405": 1793574483
  },
  "pendientes": {
   "67c47d23d799": {
@@ -343,16 +344,23 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793562065,
+ "ultima_busqueda": 1793574483,
  "ultimo_resumen": "2026-11-01",
  "acum": {
-  "nuevas": 1,
+  "nuevas": 2,
   "enviadas": 1,
-  "casi": []
+  "casi": [
+   {
+    "titulo": "Agentes de call center SIN experiencia / Soporte técnico",
+    "empresa": "Agentes de call center SIN experiencia / Soporte técnico",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-agentes-de-call-center-sin-experiencia-soporte-tecnico-posibilidad-de-trabajar-desde-casa-en-bogota-dc-B4DBCED93C2C8CFF61373E686DCF3405",
+    "puntaje": 2
+   }
+  ]
  },
  "ultima_fuente": {
-  "getonboard": 1793562039,
-  "computrabajo": 1793562064,
-  "remotive": 1793545787
+  "getonboard": 1793574459,
+  "computrabajo": 1793574483,
+  "remotive": 1793574483
  }
 }
