@@ -337,35 +337,16 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793520242,
- "ultimo_resumen": "2026-10-31",
+ "ultima_busqueda": 1793545787,
+ "ultimo_resumen": "2026-11-01",
  "acum": {
-  "nuevas": 6,
-  "enviadas": 2,
-  "casi": [
-   {
-    "titulo": "Analista de planeación financiera  Bogotá",
-    "empresa": "Analista de planeación financiera  Bogotá",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-planeacion-financiera-bogota-experiencia-de-tres-anos-en-el-area-en-bogota-dc-3AF8C7A42B3FD0A061373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Estudia Técnico Laboral Administrativo",
-    "empresa": "Estudia Técnico Laboral Administrativo",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-estudia-tecnico-laboral-administrativo-con-apoyo-economico-personal-con-discapacidad-en-cali-66382DD1E4BDE5B361373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Analista financiero JR",
-    "empresa": "Analista financiero JR",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-financiero-jr-en-bogota-dc-5A9DBDD3323D1F8761373E686DCF3405",
-    "puntaje": 2
-   }
-  ]
+  "nuevas": 0,
+  "enviadas": 0,
+  "casi": []
  },
  "ultima_fuente": {
-  "getonboard": 1793520219,
-  "computrabajo": 1793520242,
-  "remotive": 1793520242
+  "getonboard": 1793545762,
+  "computrabajo": 1793545787,
+  "remotive": 1793545787
  }
 }
