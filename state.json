@@ -108,7 +108,10 @@
   "ct:254989FFF363387F61373E686DCF3405": 1793474351,
   "ct:2CF8675083879A3761373E686DCF3405": 1793496633,
   "ct:1E57EBD29AABA0AE61373E686DCF3405": 1793562065,
-  "ct:B4DBCED93C2C8CFF61373E686DCF3405": 1793574483
+  "ct:B4DBCED93C2C8CFF61373E686DCF3405": 1793574483,
+  "ct:F5A57329E5E4782261373E686DCF3405": 1793650508,
+  "ct:1E7B25F6DBD02D9B61373E686DCF3405": 1793650508,
+  "ct:38447D8543B62D5161373E686DCF3405": 1793650508
  },
  "pendientes": {
   "67c47d23d799": {
@@ -335,6 +338,11 @@
    "titulo": "Auxiliar contable y administrativo",
    "empresa": "Auxiliar contable y administrativo",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-contable-y-administrativo-poblado-en-medellin-1E57EBD29AABA0AE61373E686DCF3405"
+  },
+  "76f3344df0ee": {
+   "titulo": "Teletrabajo asesores de soporte tecnico call center",
+   "empresa": "Teletrabajo asesores de soporte tecnico call center",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-teletrabajo-asesores-de-soporte-tecnico-call-center-en-medellin-38447D8543B62D5161373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -344,23 +352,29 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793613587,
- "ultimo_resumen": "2026-11-01",
+ "ultima_busqueda": 1793650508,
+ "ultimo_resumen": "2026-11-02",
  "acum": {
-  "nuevas": 2,
+  "nuevas": 3,
   "enviadas": 1,
   "casi": [
    {
-    "titulo": "Agentes de call center SIN experiencia / Soporte técnico",
-    "empresa": "Agentes de call center SIN experiencia / Soporte técnico",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-agentes-de-call-center-sin-experiencia-soporte-tecnico-posibilidad-de-trabajar-desde-casa-en-bogota-dc-B4DBCED93C2C8CFF61373E686DCF3405",
+    "titulo": "Analista administrativo",
+    "empresa": "Analista administrativo",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-administrativo-en-bogota-dc-1E7B25F6DBD02D9B61373E686DCF3405",
     "puntaje": 2
+   },
+   {
+    "titulo": "Gestor operativo y telemercadeo que apoye área comercial",
+    "empresa": "Gestor operativo y telemercadeo que apoye área comercial",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gestor-operativo-y-telemercadeo-que-apoye-area-comercial-no-comerciales-en-bogota-dc-F5A57329E5E4782261373E686DCF3405",
+    "puntaje": -4
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793613562,
-  "computrabajo": 1793613587,
-  "remotive": 1793613587
+  "getonboard": 1793650485,
+  "computrabajo": 1793650507,
+  "remotive": 1793650508
  }
 }
