@@ -111,7 +111,8 @@
   "ct:B4DBCED93C2C8CFF61373E686DCF3405": 1793574483,
   "ct:F5A57329E5E4782261373E686DCF3405": 1793650508,
   "ct:1E7B25F6DBD02D9B61373E686DCF3405": 1793650508,
-  "ct:38447D8543B62D5161373E686DCF3405": 1793650508
+  "ct:38447D8543B62D5161373E686DCF3405": 1793650508,
+  "ct:6038A5E6E580A2C961373E686DCF3405": 1793672727
  },
  "pendientes": {
   "67c47d23d799": {
@@ -352,16 +353,22 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793650508,
+ "ultima_busqueda": 1793672727,
  "ultimo_resumen": "2026-11-02",
  "acum": {
-  "nuevas": 3,
+  "nuevas": 4,
   "enviadas": 1,
   "casi": [
    {
     "titulo": "Analista administrativo",
     "empresa": "Analista administrativo",
     "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-administrativo-en-bogota-dc-1E7B25F6DBD02D9B61373E686DCF3405",
+    "puntaje": 2
+   },
+   {
+    "titulo": "Analista de Pruebas de Dispositivos Móviles",
+    "empresa": "Analista de Pruebas de Dispositivos Móviles",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-pruebas-de-dispositivos-moviles-en--6038A5E6E580A2C961373E686DCF3405",
     "puntaje": 2
    },
    {
@@ -373,8 +380,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793650485,
-  "computrabajo": 1793650507,
-  "remotive": 1793650508
+  "getonboard": 1793672703,
+  "computrabajo": 1793672726,
+  "remotive": 1793672727
  }
 }
