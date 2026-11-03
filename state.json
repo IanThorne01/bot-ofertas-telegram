@@ -112,7 +112,15 @@
   "ct:F5A57329E5E4782261373E686DCF3405": 1793650508,
   "ct:1E7B25F6DBD02D9B61373E686DCF3405": 1793650508,
   "ct:38447D8543B62D5161373E686DCF3405": 1793650508,
-  "ct:6038A5E6E580A2C961373E686DCF3405": 1793672727
+  "ct:6038A5E6E580A2C961373E686DCF3405": 1793672727,
+  "ct:E16D146C5D59208861373E686DCF3405": 1793727348,
+  "ct:4AF3A88ED99D8E3761373E686DCF3405": 1793727348,
+  "ct:D4A35D220FF0063C61373E686DCF3405": 1793727348,
+  "ct:EAA2AA983898F24B61373E686DCF3405": 1793727348,
+  "ct:82E3305BBF02BEE761373E686DCF3405": 1793727348,
+  "ct:746BA0FF31FDCC9B61373E686DCF3405": 1793727348,
+  "ct:1AEE5B316F48D8C861373E686DCF3405": 1793727348,
+  "ct:36011F290D50D9EE61373E686DCF3405": 1793727348
  },
  "pendientes": {
   "67c47d23d799": {
@@ -344,6 +352,16 @@
    "titulo": "Teletrabajo asesores de soporte tecnico call center",
    "empresa": "Teletrabajo asesores de soporte tecnico call center",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-teletrabajo-asesores-de-soporte-tecnico-call-center-en-medellin-38447D8543B62D5161373E686DCF3405"
+  },
+  "d2c61e6c9221": {
+   "titulo": "Auxiliar de tiempos y asistencias",
+   "empresa": "Auxiliar de tiempos y asistencias",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-tiempos-y-asistencias-bogota-en-bogota-dc-E16D146C5D59208861373E686DCF3405"
+  },
+  "9a9f3a7ecb75": {
+   "titulo": "Analista datos logisticos",
+   "empresa": "Analista datos logisticos",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-datos-logisticos-bogota-en-bogota-dc-4AF3A88ED99D8E3761373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -353,35 +371,35 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793699561,
- "ultimo_resumen": "2026-11-02",
+ "ultima_busqueda": 1793727348,
+ "ultimo_resumen": "2026-11-03",
  "acum": {
-  "nuevas": 4,
-  "enviadas": 1,
+  "nuevas": 8,
+  "enviadas": 2,
   "casi": [
    {
-    "titulo": "Analista administrativo",
-    "empresa": "Analista administrativo",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-administrativo-en-bogota-dc-1E7B25F6DBD02D9B61373E686DCF3405",
+    "titulo": "Analista contable",
+    "empresa": "Analista contable",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-contable-itagui-en-itagui-D4A35D220FF0063C61373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Analista de Pruebas de Dispositivos Móviles",
-    "empresa": "Analista de Pruebas de Dispositivos Móviles",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-pruebas-de-dispositivos-moviles-en--6038A5E6E580A2C961373E686DCF3405",
+    "titulo": "Analista de cuentas por pagar",
+    "empresa": "Analista de cuentas por pagar",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-cuentas-por-pagar-en-bogota-dc-EAA2AA983898F24B61373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Gestor operativo y telemercadeo que apoye área comercial",
-    "empresa": "Gestor operativo y telemercadeo que apoye área comercial",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gestor-operativo-y-telemercadeo-que-apoye-area-comercial-no-comerciales-en-bogota-dc-F5A57329E5E4782261373E686DCF3405",
-    "puntaje": -4
+    "titulo": "Tecnico en Sistemas Asesor de Soporte",
+    "empresa": "Tecnico en Sistemas Asesor de Soporte",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-sistemas-asesor-de-soporte-tecnicos-en-bogota-dc-82E3305BBF02BEE761373E686DCF3405",
+    "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793699538,
-  "computrabajo": 1793699561,
-  "remotive": 1793699561
+  "getonboard": 1793727324,
+  "computrabajo": 1793727347,
+  "remotive": 1793727347
  }
 }
