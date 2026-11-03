@@ -353,7 +353,7 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793672727,
+ "ultima_busqueda": 1793699561,
  "ultimo_resumen": "2026-11-02",
  "acum": {
   "nuevas": 4,
@@ -380,8 +380,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793672703,
-  "computrabajo": 1793672726,
-  "remotive": 1793672727
+  "getonboard": 1793699538,
+  "computrabajo": 1793699561,
+  "remotive": 1793699561
  }
 }
