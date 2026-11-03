@@ -120,7 +120,12 @@
   "ct:82E3305BBF02BEE761373E686DCF3405": 1793727348,
   "ct:746BA0FF31FDCC9B61373E686DCF3405": 1793727348,
   "ct:1AEE5B316F48D8C861373E686DCF3405": 1793727348,
-  "ct:36011F290D50D9EE61373E686DCF3405": 1793727348
+  "ct:36011F290D50D9EE61373E686DCF3405": 1793727348,
+  "gob:ingeniero-de-soporte-y-monitoreo-factor-it-remote": 1793745140,
+  "ct:2136533D45BEB2C761373E686DCF3405": 1793745140,
+  "ct:0D4B4D25EFD3E0D361373E686DCF3405": 1793745140,
+  "ct:58CEB9F98835BCE861373E686DCF3405": 1793745140,
+  "ct:79987638948BDF5561373E686DCF3405": 1793745140
  },
  "pendientes": {
   "67c47d23d799": {
@@ -362,6 +367,16 @@
    "titulo": "Analista datos logisticos",
    "empresa": "Analista datos logisticos",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-datos-logisticos-bogota-en-bogota-dc-4AF3A88ED99D8E3761373E686DCF3405"
+  },
+  "084adbec65ec": {
+   "titulo": "Ingeniero de Soporte y Monitoreo",
+   "empresa": "Factor IT",
+   "url": "https://www.getonbrd.com/jobs/ingeniero-de-soporte-y-monitoreo-factor-it-remote"
+  },
+  "5a11c5bfb3ba": {
+   "titulo": "Auxiliar Administrativo/a Con DIscapacidad",
+   "empresa": "Auxiliar Administrativo/a Con DIscapacidad",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativoa-con-discapacidad-en-bogota-dc-79987638948BDF5561373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -371,11 +386,11 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793727348,
+ "ultima_busqueda": 1793745140,
  "ultimo_resumen": "2026-11-03",
  "acum": {
-  "nuevas": 8,
-  "enviadas": 2,
+  "nuevas": 13,
+  "enviadas": 4,
   "casi": [
    {
     "titulo": "Analista contable",
@@ -398,8 +413,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793727324,
-  "computrabajo": 1793727347,
+  "getonboard": 1793745115,
+  "computrabajo": 1793745139,
   "remotive": 1793727347
  }
 }
