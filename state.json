@@ -125,7 +125,12 @@
   "ct:2136533D45BEB2C761373E686DCF3405": 1793745140,
   "ct:0D4B4D25EFD3E0D361373E686DCF3405": 1793745140,
   "ct:58CEB9F98835BCE861373E686DCF3405": 1793745140,
-  "ct:79987638948BDF5561373E686DCF3405": 1793745140
+  "ct:79987638948BDF5561373E686DCF3405": 1793745140,
+  "ct:478957E96FCA76E661373E686DCF3405": 1793760247,
+  "ct:EA9F2E95C1AAA26F61373E686DCF3405": 1793760247,
+  "ct:5AAE27F8B046C73D61373E686DCF3405": 1793760247,
+  "ct:09914CAD2C58D84161373E686DCF3405": 1793760247,
+  "ct:94DF617C9C185D3361373E686DCF3405": 1793760247
  },
  "pendientes": {
   "67c47d23d799": {
@@ -377,6 +382,21 @@
    "titulo": "Auxiliar Administrativo/a Con DIscapacidad",
    "empresa": "Auxiliar Administrativo/a Con DIscapacidad",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativoa-con-discapacidad-en-bogota-dc-79987638948BDF5561373E686DCF3405"
+  },
+  "b1c7aab68d0a": {
+   "titulo": "Auxiliar de Operaciones Financieras",
+   "empresa": "Auxiliar de Operaciones Financieras",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-operaciones-financieras-en-bogota-dc-EA9F2E95C1AAA26F61373E686DCF3405"
+  },
+  "a996f796e881": {
+   "titulo": "Analista de Datos Maestros",
+   "empresa": "Analista de Datos Maestros",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-maestros-en-bogota-dc-09914CAD2C58D84161373E686DCF3405"
+  },
+  "75e62dd9c4d0": {
+   "titulo": "Practicante de Nómina",
+   "empresa": "Practicante de Nómina",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-de-nomina-etapa-productiva-en-bogota-dc-478957E96FCA76E661373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -386,11 +406,11 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793745140,
+ "ultima_busqueda": 1793760247,
  "ultimo_resumen": "2026-11-03",
  "acum": {
-  "nuevas": 13,
-  "enviadas": 4,
+  "nuevas": 18,
+  "enviadas": 7,
   "casi": [
    {
     "titulo": "Analista contable",
@@ -413,8 +433,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793745115,
-  "computrabajo": 1793745139,
-  "remotive": 1793727347
+  "getonboard": 1793760222,
+  "computrabajo": 1793760246,
+  "remotive": 1793760246
  }
 }
