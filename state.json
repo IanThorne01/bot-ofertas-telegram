@@ -131,7 +131,17 @@
   "ct:5AAE27F8B046C73D61373E686DCF3405": 1793760247,
   "ct:09914CAD2C58D84161373E686DCF3405": 1793760247,
   "ct:94DF617C9C185D3361373E686DCF3405": 1793760247,
-  "rem:1749306": 1793786210
+  "rem:1749306": 1793786210,
+  "ct:160F4FCD3E53436C61373E686DCF3405": 1793814625,
+  "ct:EFFBD90136C89F6561373E686DCF3405": 1793814625,
+  "ct:884DC9CB3560B1A461373E686DCF3405": 1793814625,
+  "ct:8F694CD0BCCB280661373E686DCF3405": 1793814625,
+  "ct:FD73F437A6754D8061373E686DCF3405": 1793814625,
+  "ct:99AB5D751665456761373E686DCF3405": 1793814625,
+  "ct:4C50619D36903CDE61373E686DCF3405": 1793814625,
+  "ct:9BD1731FDE7101B961373E686DCF3405": 1793814625,
+  "ct:BD5B61C9D651EEC761373E686DCF3405": 1793814625,
+  "ct:B1EA6C9BA9826A0961373E686DCF3405": 1793814625
  },
  "pendientes": {
   "67c47d23d799": {
@@ -398,6 +408,36 @@
    "titulo": "Practicante de Nómina",
    "empresa": "Practicante de Nómina",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-de-nomina-etapa-productiva-en-bogota-dc-478957E96FCA76E661373E686DCF3405"
+  },
+  "36d0906de5f5": {
+   "titulo": "Auxiliar Contable y de Tesorería / Bogotá",
+   "empresa": "Auxiliar Contable y de Tesorería / Bogotá",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-contable-y-de-tesoreria-bogota-en-bogota-dc-160F4FCD3E53436C61373E686DCF3405"
+  },
+  "a1f6206329db": {
+   "titulo": "analista de datos",
+   "empresa": "analista de datos",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-en-medellin-EFFBD90136C89F6561373E686DCF3405"
+  },
+  "d7d47e1f973f": {
+   "titulo": "Analista de datos",
+   "empresa": "Analista de datos",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-remoto-toda-colombia-en-medellin-884DC9CB3560B1A461373E686DCF3405"
+  },
+  "ff50e39d4335": {
+   "titulo": "Auxiliar Administrativo SST",
+   "empresa": "Auxiliar Administrativo SST",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-sst-bogota-en-bogota-dc-9BD1731FDE7101B961373E686DCF3405"
+  },
+  "1c590cf9c140": {
+   "titulo": "Ejecutivo comisional / De Lunes a Sabado / Auxiliar Administrativo",
+   "empresa": "Ejecutivo comisional / De Lunes a Sabado / Auxiliar Administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-comisional-de-lunes-a-sabado-auxiliar-administrativo-con-experiencia-contrato-a-termino-indefinido-en-bogota-dc-BD5B61C9D651EEC761373E686DCF3405"
+  },
+  "bf12f53ad3ae": {
+   "titulo": "Practicante universitario transformacion digital",
+   "empresa": "Practicante universitario transformacion digital",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-universitario-transformacion-digital-estudiantes-de-ingenieria-de-sistemas-o-afines-en-bogota-dc-B1EA6C9BA9826A0961373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -407,35 +447,35 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793786210,
- "ultimo_resumen": "2026-11-03",
+ "ultima_busqueda": 1793814625,
+ "ultimo_resumen": "2026-11-04",
  "acum": {
-  "nuevas": 19,
-  "enviadas": 7,
+  "nuevas": 10,
+  "enviadas": 6,
   "casi": [
    {
-    "titulo": "Analista contable",
-    "empresa": "Analista contable",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-contable-itagui-en-itagui-D4A35D220FF0063C61373E686DCF3405",
+    "titulo": "Analista de Gestión y Control de Ingresos",
+    "empresa": "Analista de Gestión y Control de Ingresos",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-gestion-y-control-de-ingresos-en-bogota-dc-8F694CD0BCCB280661373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Analista de cuentas por pagar",
-    "empresa": "Analista de cuentas por pagar",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-cuentas-por-pagar-en-bogota-dc-EAA2AA983898F24B61373E686DCF3405",
+    "titulo": "Agentes de call center SIN experiencia / Soporte técnico",
+    "empresa": "Agentes de call center SIN experiencia / Soporte técnico",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-agentes-de-call-center-sin-experiencia-soporte-tecnico-posibilidad-de-trabajar-desde-casa-en-bogota-dc-FD73F437A6754D8061373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Tecnico en Sistemas Asesor de Soporte",
-    "empresa": "Tecnico en Sistemas Asesor de Soporte",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-sistemas-asesor-de-soporte-tecnicos-en-bogota-dc-82E3305BBF02BEE761373E686DCF3405",
+    "titulo": "Analista de soporte técnico",
+    "empresa": "Analista de soporte técnico",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-soporte-tecnico-medellin-en-medellin-99AB5D751665456761373E686DCF3405",
     "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793786186,
-  "computrabajo": 1793786210,
-  "remotive": 1793786210
+  "getonboard": 1793814597,
+  "computrabajo": 1793814622,
+  "remotive": 1793814622
  }
 }
