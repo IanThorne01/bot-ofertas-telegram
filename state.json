@@ -150,7 +150,13 @@
   "ct:016361DDBC2C603461373E686DCF3405": 1793834259,
   "ct:2738302B288E7B4461373E686DCF3405": 1793834259,
   "ct:FA3BC7E485A3DEA361373E686DCF3405": 1793849914,
-  "ct:3512AA4794D8C65361373E686DCF3405": 1793849914
+  "ct:3512AA4794D8C65361373E686DCF3405": 1793849914,
+  "ct:662BCCC38E4E515E61373E686DCF3405": 1793878349,
+  "ct:F1ABA50B87C9903761373E686DCF3405": 1793878349,
+  "ct:3E86741968D60B4F61373E686DCF3405": 1793878349,
+  "ct:6594F291529CCEF161373E686DCF3405": 1793878349,
+  "ct:85EFF45D0B869B3F61373E686DCF3405": 1793878349,
+  "ct:752ADE016FDD893E61373E686DCF3405": 1793878349
  },
  "pendientes": {
   "67c47d23d799": {
@@ -467,6 +473,16 @@
    "titulo": "Inclusión Laboral (PcD) Auxiliar Administrativo",
    "empresa": "Inclusión Laboral (PcD) Auxiliar Administrativo",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inclusion-laboral-pcd-auxiliar-administrativo-en-bogota-dc-3512AA4794D8C65361373E686DCF3405"
+  },
+  "773beed4ac9b": {
+   "titulo": "Auxiliar Administrativo y Logístico",
+   "empresa": "Auxiliar Administrativo y Logístico",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-y-logistico-en-bogota-dc-6594F291529CCEF161373E686DCF3405"
+  },
+  "1c890f3e8623": {
+   "titulo": "Auxiliar Administrativo",
+   "empresa": "Auxiliar Administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-estudia-con-apoyo-economico-personal-con-discapacidad-en-cali-752ADE016FDD893E61373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -476,11 +492,11 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793849914,
+ "ultima_busqueda": 1793878349,
  "ultimo_resumen": "2026-11-04",
  "acum": {
-  "nuevas": 19,
-  "enviadas": 10,
+  "nuevas": 25,
+  "enviadas": 12,
   "casi": [
    {
     "titulo": "Analista de Gestión y Control de Ingresos",
@@ -503,8 +519,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793849888,
-  "computrabajo": 1793849913,
-  "remotive": 1793849913
+  "getonboard": 1793878324,
+  "computrabajo": 1793878347,
+  "remotive": 1793878348
  }
 }
