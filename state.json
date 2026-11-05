@@ -156,7 +156,13 @@
   "ct:3E86741968D60B4F61373E686DCF3405": 1793878349,
   "ct:6594F291529CCEF161373E686DCF3405": 1793878349,
   "ct:85EFF45D0B869B3F61373E686DCF3405": 1793878349,
-  "ct:752ADE016FDD893E61373E686DCF3405": 1793878349
+  "ct:752ADE016FDD893E61373E686DCF3405": 1793878349,
+  "gob:consultor-sap-dms-ca-dms-senior-lisit-remote": 1793905197,
+  "ct:B79ACD31932B268561373E686DCF3405": 1793905197,
+  "ct:4D04DEFE9524E49761373E686DCF3405": 1793905197,
+  "ct:BE0FD1DEC85DE05261373E686DCF3405": 1793905197,
+  "ct:E14020DECAC62B0961373E686DCF3405": 1793905197,
+  "ct:E9D0FBF8AAF7051C61373E686DCF3405": 1793905197
  },
  "pendientes": {
   "67c47d23d799": {
@@ -483,6 +489,11 @@
    "titulo": "Auxiliar Administrativo",
    "empresa": "Auxiliar Administrativo",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-estudia-con-apoyo-economico-personal-con-discapacidad-en-cali-752ADE016FDD893E61373E686DCF3405"
+  },
+  "a5d0beaeb95e": {
+   "titulo": "Practicante Técnico o Tecnólogo Administrativo, Gestión Humana o Contabilidad",
+   "empresa": "Practicante Técnico o Tecnólogo Administrativo, Gestión Humana o Contabilidad",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-tecnico-o-tecnologo-administrativo-gestion-humana-o-contabilidad-proceso-incorporacion-en-bogota-dc-B79ACD31932B268561373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -492,35 +503,35 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793878349,
- "ultimo_resumen": "2026-11-04",
+ "ultima_busqueda": 1793905197,
+ "ultimo_resumen": "2026-11-05",
  "acum": {
-  "nuevas": 25,
-  "enviadas": 12,
+  "nuevas": 6,
+  "enviadas": 1,
   "casi": [
    {
-    "titulo": "Analista de Gestión y Control de Ingresos",
-    "empresa": "Analista de Gestión y Control de Ingresos",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-gestion-y-control-de-ingresos-en-bogota-dc-8F694CD0BCCB280661373E686DCF3405",
+    "titulo": "Analista de Nomina Hibrido",
+    "empresa": "Analista de Nomina Hibrido",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-nomina-hibrido-manejo-de-plataforma-designer-software-sas-en-bogota-dc-4D04DEFE9524E49761373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Agentes de call center SIN experiencia / Soporte técnico",
-    "empresa": "Agentes de call center SIN experiencia / Soporte técnico",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-agentes-de-call-center-sin-experiencia-soporte-tecnico-posibilidad-de-trabajar-desde-casa-en-bogota-dc-FD73F437A6754D8061373E686DCF3405",
+    "titulo": "Agentes Sac con Soporte Técnico para técnico  tecnólogos profesionales",
+    "empresa": "Agentes Sac con Soporte Técnico para técnico  tecnólogos profesionales",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-agentes-sac-con-soporte-tecnico-para-tecnico-tecnologos-profesionales-call-center-en-bogota-dc-E14020DECAC62B0961373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Analista de soporte técnico",
-    "empresa": "Analista de soporte técnico",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-soporte-tecnico-medellin-en-medellin-99AB5D751665456761373E686DCF3405",
+    "titulo": "Tecnico en Sistemas Asesor de Soporte",
+    "empresa": "Tecnico en Sistemas Asesor de Soporte",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-sistemas-asesor-de-soporte-tecnicos-en-medellin-E9D0FBF8AAF7051C61373E686DCF3405",
     "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793878324,
-  "computrabajo": 1793878347,
-  "remotive": 1793878348
+  "getonboard": 1793905171,
+  "computrabajo": 1793905196,
+  "remotive": 1793905197
  }
 }
