@@ -148,7 +148,9 @@
   "ct:E0B446E884BD176561373E686DCF3405": 1793834259,
   "ct:1D150DCF8741F63661373E686DCF3405": 1793834259,
   "ct:016361DDBC2C603461373E686DCF3405": 1793834259,
-  "ct:2738302B288E7B4461373E686DCF3405": 1793834259
+  "ct:2738302B288E7B4461373E686DCF3405": 1793834259,
+  "ct:FA3BC7E485A3DEA361373E686DCF3405": 1793849914,
+  "ct:3512AA4794D8C65361373E686DCF3405": 1793849914
  },
  "pendientes": {
   "67c47d23d799": {
@@ -460,6 +462,11 @@
    "titulo": "Analista de Datos/Analista de Datos de Negocio/Analista de Planeación Financiera y Gestión",
    "empresa": "Analista de Datos/Analista de Datos de Negocio/Analista de Planeación Financiera y Gestión",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datosanalista-de-datos-de-negocioanalista-de-planeacion-financiera-y-gestion-bogota-en-bogota-dc-E0B446E884BD176561373E686DCF3405"
+  },
+  "4163dfa09109": {
+   "titulo": "Inclusión Laboral (PcD) Auxiliar Administrativo",
+   "empresa": "Inclusión Laboral (PcD) Auxiliar Administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inclusion-laboral-pcd-auxiliar-administrativo-en-bogota-dc-3512AA4794D8C65361373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -469,11 +476,11 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793834259,
+ "ultima_busqueda": 1793849914,
  "ultimo_resumen": "2026-11-04",
  "acum": {
-  "nuevas": 17,
-  "enviadas": 9,
+  "nuevas": 19,
+  "enviadas": 10,
   "casi": [
    {
     "titulo": "Analista de Gestión y Control de Ingresos",
@@ -496,8 +503,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793834232,
-  "computrabajo": 1793834257,
-  "remotive": 1793814622
+  "getonboard": 1793849888,
+  "computrabajo": 1793849913,
+  "remotive": 1793849913
  }
 }
