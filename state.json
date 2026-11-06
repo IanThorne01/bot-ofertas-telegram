@@ -166,7 +166,15 @@
   "ct:A950A2F95B65C00861373E686DCF3405": 1793923500,
   "ct:4E52234F8E4B6A0461373E686DCF3405": 1793923500,
   "ct:EA03D07DB9956BB161373E686DCF3405": 1793923500,
-  "ct:07C03599449A814A61373E686DCF3405": 1793923500
+  "ct:07C03599449A814A61373E686DCF3405": 1793923500,
+  "ct:606470872290451061373E686DCF3405": 1793976564,
+  "ct:2E2B9B78F9918A8961373E686DCF3405": 1793976564,
+  "ct:2C2045A39D2DE59961373E686DCF3405": 1793976564,
+  "ct:6BA97C0A7D908EA061373E686DCF3405": 1793976564,
+  "ct:90FDB7BB90D60D3261373E686DCF3405": 1793976564,
+  "ct:D86B546D5FF9805C61373E686DCF3405": 1793976564,
+  "ct:CB00C3F65C973DA161373E686DCF3405": 1793976564,
+  "rem:1185979": 1793976564
  },
  "pendientes": {
   "67c47d23d799": {
@@ -513,6 +521,31 @@
    "titulo": "Asistente Administrativo / Remoto",
    "empresa": "Asistente Administrativo / Remoto",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-administrativo-remoto-en-bogota-dc-4E52234F8E4B6A0461373E686DCF3405"
+  },
+  "5661c4a6a305": {
+   "titulo": "Auxiliar de recursos humanos",
+   "empresa": "Auxiliar de recursos humanos",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-recursos-humanos-en-bogota-dc-606470872290451061373E686DCF3405"
+  },
+  "7e86d09c7ea0": {
+   "titulo": "Analista Junior Cuentas por Pagar",
+   "empresa": "Analista Junior Cuentas por Pagar",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-junior-cuentas-por-pagar-en-bogota-dc-2E2B9B78F9918A8961373E686DCF3405"
+  },
+  "3d438b89d584": {
+   "titulo": "Auxiliar administrativo medio tiempo",
+   "empresa": "Auxiliar administrativo medio tiempo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-medio-tiempo-proceso-de-inclusion-pcd-en-funza-D86B546D5FF9805C61373E686DCF3405"
+  },
+  "006171355f9d": {
+   "titulo": "Auxiliar Administrativo / Personal con Discapacidad",
+   "empresa": "Auxiliar Administrativo / Personal con Discapacidad",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-personal-con-discapacidad-en-bogota-dc-CB00C3F65C973DA161373E686DCF3405"
+  },
+  "28c82c89a62d": {
+   "titulo": "Desarrolladores full stack / QA Analyst / Arquitectos",
+   "empresa": "Desarrolladores full stack / QA Analyst / Arquitectos",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladores-full-stack-qa-analyst-arquitectos-network-analyst-soporte-tecnico-en-bogota-dc-90FDB7BB90D60D3261373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -522,35 +555,35 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1793947582,
- "ultimo_resumen": "2026-11-05",
+ "ultima_busqueda": 1793976564,
+ "ultimo_resumen": "2026-11-06",
  "acum": {
-  "nuevas": 10,
-  "enviadas": 4,
+  "nuevas": 8,
+  "enviadas": 5,
   "casi": [
    {
-    "titulo": "Analista de Nomina Hibrido",
-    "empresa": "Analista de Nomina Hibrido",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-nomina-hibrido-manejo-de-plataforma-designer-software-sas-en-bogota-dc-4D04DEFE9524E49761373E686DCF3405",
+    "titulo": "Analista Acompañamiento Social Vivienda",
+    "empresa": "Analista Acompañamiento Social Vivienda",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-acompanamiento-social-vivienda-cali-en-cali-2C2045A39D2DE59961373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Agentes Sac con Soporte Técnico para técnico  tecnólogos profesionales",
-    "empresa": "Agentes Sac con Soporte Técnico para técnico  tecnólogos profesionales",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-agentes-sac-con-soporte-tecnico-para-tecnico-tecnologos-profesionales-call-center-en-bogota-dc-E14020DECAC62B0961373E686DCF3405",
+    "titulo": "Analista de Inversiones",
+    "empresa": "Analista de Inversiones",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-inversiones-bogota-dc-en-bogota-dc-6BA97C0A7D908EA061373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Tecnico en Sistemas Asesor de Soporte",
-    "empresa": "Tecnico en Sistemas Asesor de Soporte",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-sistemas-asesor-de-soporte-tecnicos-en-medellin-E9D0FBF8AAF7051C61373E686DCF3405",
-    "puntaje": 2
+    "titulo": "Freelance Writer",
+    "empresa": "IAPWE",
+    "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+    "puntaje": -3
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793923472,
-  "computrabajo": 1793947582,
-  "remotive": 1793947582
+  "getonboard": 1793976537,
+  "computrabajo": 1793976561,
+  "remotive": 1793976561
  }
 }
