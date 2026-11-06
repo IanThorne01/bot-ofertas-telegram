@@ -519,10 +519,10 @@
  "offset": 675255168,
  "avisos": {
   "linkedin": 1792801353,
-  "getonboard": 1793346294
+  "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1793923500,
+ "ultima_busqueda": 1793947582,
  "ultimo_resumen": "2026-11-05",
  "acum": {
   "nuevas": 10,
@@ -550,7 +550,7 @@
  },
  "ultima_fuente": {
   "getonboard": 1793923472,
-  "computrabajo": 1793923498,
-  "remotive": 1793905197
+  "computrabajo": 1793947582,
+  "remotive": 1793947582
  }
 }
