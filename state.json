@@ -162,7 +162,11 @@
   "ct:4D04DEFE9524E49761373E686DCF3405": 1793905197,
   "ct:BE0FD1DEC85DE05261373E686DCF3405": 1793905197,
   "ct:E14020DECAC62B0961373E686DCF3405": 1793905197,
-  "ct:E9D0FBF8AAF7051C61373E686DCF3405": 1793905197
+  "ct:E9D0FBF8AAF7051C61373E686DCF3405": 1793905197,
+  "ct:A950A2F95B65C00861373E686DCF3405": 1793923500,
+  "ct:4E52234F8E4B6A0461373E686DCF3405": 1793923500,
+  "ct:EA03D07DB9956BB161373E686DCF3405": 1793923500,
+  "ct:07C03599449A814A61373E686DCF3405": 1793923500
  },
  "pendientes": {
   "67c47d23d799": {
@@ -494,6 +498,21 @@
    "titulo": "Practicante Técnico o Tecnólogo Administrativo, Gestión Humana o Contabilidad",
    "empresa": "Practicante Técnico o Tecnólogo Administrativo, Gestión Humana o Contabilidad",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-tecnico-o-tecnologo-administrativo-gestion-humana-o-contabilidad-proceso-incorporacion-en-bogota-dc-B79ACD31932B268561373E686DCF3405"
+  },
+  "f918d9a054c9": {
+   "titulo": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
+   "empresa": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-back-officetecnicos-o-tecnologosauxiliar-administrativo-6-meses-en-call-center-en-bogota-dc-EA03D07DB9956BB161373E686DCF3405"
+  },
+  "ffaa894e1dfc": {
+   "titulo": "Estudia un técnico en auxiliar administrativo  (Vacante de inclusión laboral)",
+   "empresa": "Estudia un técnico en auxiliar administrativo  (Vacante de inclusión laboral)",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-estudia-un-tecnico-en-auxiliar-administrativo-vacante-de-inclusion-laboral-en-bogota-dc-07C03599449A814A61373E686DCF3405"
+  },
+  "c74f75b8c727": {
+   "titulo": "Asistente Administrativo / Remoto",
+   "empresa": "Asistente Administrativo / Remoto",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-administrativo-remoto-en-bogota-dc-4E52234F8E4B6A0461373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -503,11 +522,11 @@
   "getonboard": 1793346294
  },
  "pausado": false,
- "ultima_busqueda": 1793905197,
+ "ultima_busqueda": 1793923500,
  "ultimo_resumen": "2026-11-05",
  "acum": {
-  "nuevas": 6,
-  "enviadas": 1,
+  "nuevas": 10,
+  "enviadas": 4,
   "casi": [
    {
     "titulo": "Analista de Nomina Hibrido",
@@ -530,8 +549,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793905171,
-  "computrabajo": 1793905196,
+  "getonboard": 1793923472,
+  "computrabajo": 1793923498,
   "remotive": 1793905197
  }
 }
