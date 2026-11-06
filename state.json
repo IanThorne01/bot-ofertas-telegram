@@ -174,7 +174,17 @@
   "ct:90FDB7BB90D60D3261373E686DCF3405": 1793976564,
   "ct:D86B546D5FF9805C61373E686DCF3405": 1793976564,
   "ct:CB00C3F65C973DA161373E686DCF3405": 1793976564,
-  "rem:1185979": 1793976564
+  "rem:1185979": 1793976564,
+  "ct:964841CA9C0027D661373E686DCF3405": 1793997790,
+  "ct:FAE441CBAABB429861373E686DCF3405": 1793997790,
+  "ct:1D44B6D2DC1B943F61373E686DCF3405": 1793997790,
+  "ct:A5DBBA964EF7A07361373E686DCF3405": 1793997790,
+  "ct:93BE5A76033E38E761373E686DCF3405": 1793997790,
+  "ct:8EFA2AE4F55BE64761373E686DCF3405": 1793997790,
+  "ct:1A262CF9B945529561373E686DCF3405": 1793997790,
+  "ct:A317984540C74CFD61373E686DCF3405": 1793997790,
+  "ct:BECB952251A3FF2661373E686DCF3405": 1793997790,
+  "ct:5EEDC40E5133132F61373E686DCF3405": 1793997790
  },
  "pendientes": {
   "67c47d23d799": {
@@ -546,6 +556,31 @@
    "titulo": "Desarrolladores full stack / QA Analyst / Arquitectos",
    "empresa": "Desarrolladores full stack / QA Analyst / Arquitectos",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladores-full-stack-qa-analyst-arquitectos-network-analyst-soporte-tecnico-en-bogota-dc-90FDB7BB90D60D3261373E686DCF3405"
+  },
+  "43b5009874b5": {
+   "titulo": "Data analyst",
+   "empresa": "Data analyst",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-analyst-en-medellin-1D44B6D2DC1B943F61373E686DCF3405"
+  },
+  "d783b9ae35e6": {
+   "titulo": "Analista BI y Gobierno de Datos",
+   "empresa": "Analista BI y Gobierno de Datos",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-bi-y-gobierno-de-datos-en-bogota-dc-FAE441CBAABB429861373E686DCF3405"
+  },
+  "664118e9f337": {
+   "titulo": "Auxiliar III de Operaciones Digitales  Soporte Funcional y Calidad e Indicadores Bogotá 113969",
+   "empresa": "Auxiliar III de Operaciones Digitales  Soporte Funcional y Calidad e Indicadores Bogotá 113969",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-iii-de-operaciones-digitales-soporte-funcional-y-calidad-e-indicadores-bogota-113969-en-bogota-dc-A317984540C74CFD61373E686DCF3405"
+  },
+  "96d5b0476574": {
+   "titulo": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
+   "empresa": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-back-officetecnicos-o-tecnologosauxiliar-administrativo-6-meses-en-call-center-en-bogota-dc-5EEDC40E5133132F61373E686DCF3405"
+  },
+  "f4642203d2eb": {
+   "titulo": "Analista de Impuestos Experto en Exogena y SAP",
+   "empresa": "Analista de Impuestos Experto en Exogena y SAP",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-impuestos-experto-en-exogena-y-sap-en-bogota-dc-93BE5A76033E38E761373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -555,11 +590,11 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1793976564,
+ "ultima_busqueda": 1793997790,
  "ultimo_resumen": "2026-11-06",
  "acum": {
-  "nuevas": 8,
-  "enviadas": 5,
+  "nuevas": 18,
+  "enviadas": 10,
   "casi": [
    {
     "titulo": "Analista Acompañamiento Social Vivienda",
@@ -574,16 +609,16 @@
     "puntaje": 2
    },
    {
-    "titulo": "Freelance Writer",
-    "empresa": "IAPWE",
-    "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-    "puntaje": -3
+    "titulo": "Cajero integral",
+    "empresa": "Cajero integral",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-cajero-integral-en-santa-marta-964841CA9C0027D661373E686DCF3405",
+    "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793976537,
-  "computrabajo": 1793976561,
+  "getonboard": 1793997764,
+  "computrabajo": 1793997787,
   "remotive": 1793976561
  }
 }
