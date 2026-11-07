@@ -191,7 +191,8 @@
   "ct:25D14ACBE64429AF61373E686DCF3405": 1794011082,
   "ct:1125981D556C864861373E686DCF3405": 1794011082,
   "ct:BCEBB7EED5FF33AB61373E686DCF3405": 1794032684,
-  "ct:6F80C232D53488AD61373E686DCF3405": 1794057942
+  "ct:6F80C232D53488AD61373E686DCF3405": 1794057942,
+  "ct:0EC98C6FB11E848861373E686DCF3405": 1794075110
  },
  "pendientes": {
   "67c47d23d799": {
@@ -608,6 +609,11 @@
    "titulo": "Asistente Virtual: Entrada de Datos y Apoyo Administrativo",
    "empresa": "Asistente Virtual: Entrada de Datos y Apoyo Administrativo",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-virtual-entrada-de-datos-y-apoyo-administrativo-tieto-en-medellin-BCEBB7EED5FF33AB61373E686DCF3405"
+  },
+  "5c90cfb2b0e8": {
+   "titulo": "Semillero Auxiliar Administrativo KOA 2026  Personas con discapacidad SIN experiencia",
+   "empresa": "Semillero Auxiliar Administrativo KOA 2026  Personas con discapacidad SIN experiencia",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-semillero-auxiliar-administrativo-koa-2026-personas-con-discapacidad-sin-experiencia-en-bogota-dc-0EC98C6FB11E848861373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -617,11 +623,11 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1794057942,
+ "ultima_busqueda": 1794075110,
  "ultimo_resumen": "2026-11-07",
  "acum": {
-  "nuevas": 1,
-  "enviadas": 0,
+  "nuevas": 2,
+  "enviadas": 1,
   "casi": [
    {
     "titulo": "Analista de Demanda (Planificación de Ventas y Operaciones)",
@@ -632,8 +638,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1794057918,
-  "computrabajo": 1794057941,
+  "getonboard": 1794075084,
+  "computrabajo": 1794075109,
   "remotive": 1794057942
  }
 }
