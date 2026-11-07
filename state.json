@@ -184,7 +184,12 @@
   "ct:1A262CF9B945529561373E686DCF3405": 1793997790,
   "ct:A317984540C74CFD61373E686DCF3405": 1793997790,
   "ct:BECB952251A3FF2661373E686DCF3405": 1793997790,
-  "ct:5EEDC40E5133132F61373E686DCF3405": 1793997790
+  "ct:5EEDC40E5133132F61373E686DCF3405": 1793997790,
+  "ct:6A0E54733190499161373E686DCF3405": 1794011082,
+  "ct:F7B879641196F01461373E686DCF3405": 1794011082,
+  "ct:397614C4E36F029361373E686DCF3405": 1794011082,
+  "ct:25D14ACBE64429AF61373E686DCF3405": 1794011082,
+  "ct:1125981D556C864861373E686DCF3405": 1794011082
  },
  "pendientes": {
   "67c47d23d799": {
@@ -581,6 +586,21 @@
    "titulo": "Analista de Impuestos Experto en Exogena y SAP",
    "empresa": "Analista de Impuestos Experto en Exogena y SAP",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-impuestos-experto-en-exogena-y-sap-en-bogota-dc-93BE5A76033E38E761373E686DCF3405"
+  },
+  "a759c97cf74a": {
+   "titulo": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
+   "empresa": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-back-officetecnicos-o-tecnologosauxiliar-administrativo-6-meses-en-call-center-en-bogota-dc-25D14ACBE64429AF61373E686DCF3405"
+  },
+  "e429d186a260": {
+   "titulo": "Auxiliar Contable y Administrativo(a)",
+   "empresa": "Auxiliar Contable y Administrativo(a)",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-contable-y-administrativoa-en-bogota-dc-1125981D556C864861373E686DCF3405"
+  },
+  "e18bf9972400": {
+   "titulo": "Reference Data Services Analyst 2",
+   "empresa": "Reference Data Services Analyst 2",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-reference-data-services-analyst-2-en-bogota-dc-6A0E54733190499161373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -590,11 +610,11 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1793997790,
+ "ultima_busqueda": 1794011082,
  "ultimo_resumen": "2026-11-06",
  "acum": {
-  "nuevas": 18,
-  "enviadas": 10,
+  "nuevas": 23,
+  "enviadas": 13,
   "casi": [
    {
     "titulo": "Analista Acompañamiento Social Vivienda",
@@ -617,8 +637,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1793997764,
-  "computrabajo": 1793997787,
-  "remotive": 1793976561
+  "getonboard": 1794011058,
+  "computrabajo": 1794011080,
+  "remotive": 1794011081
  }
 }
