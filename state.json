@@ -190,7 +190,8 @@
   "ct:397614C4E36F029361373E686DCF3405": 1794011082,
   "ct:25D14ACBE64429AF61373E686DCF3405": 1794011082,
   "ct:1125981D556C864861373E686DCF3405": 1794011082,
-  "ct:BCEBB7EED5FF33AB61373E686DCF3405": 1794032684
+  "ct:BCEBB7EED5FF33AB61373E686DCF3405": 1794032684,
+  "ct:6F80C232D53488AD61373E686DCF3405": 1794057942
  },
  "pendientes": {
   "67c47d23d799": {
@@ -616,35 +617,23 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1794032684,
- "ultimo_resumen": "2026-11-06",
+ "ultima_busqueda": 1794057942,
+ "ultimo_resumen": "2026-11-07",
  "acum": {
-  "nuevas": 24,
-  "enviadas": 14,
+  "nuevas": 1,
+  "enviadas": 0,
   "casi": [
    {
-    "titulo": "Analista Acompañamiento Social Vivienda",
-    "empresa": "Analista Acompañamiento Social Vivienda",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-acompanamiento-social-vivienda-cali-en-cali-2C2045A39D2DE59961373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Analista de Inversiones",
-    "empresa": "Analista de Inversiones",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-inversiones-bogota-dc-en-bogota-dc-6BA97C0A7D908EA061373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Cajero integral",
-    "empresa": "Cajero integral",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-cajero-integral-en-santa-marta-964841CA9C0027D661373E686DCF3405",
-    "puntaje": 2
+    "titulo": "Analista de Demanda (Planificación de Ventas y Operaciones)",
+    "empresa": "Analista de Demanda (Planificación de Ventas y Operaciones)",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-demanda-planificacion-de-ventas-y-operaciones-forecast-comercial-en-bogota-dc-6F80C232D53488AD61373E686DCF3405",
+    "puntaje": -4
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1794032659,
-  "computrabajo": 1794032684,
-  "remotive": 1794032684
+  "getonboard": 1794057918,
+  "computrabajo": 1794057941,
+  "remotive": 1794057942
  }
 }
