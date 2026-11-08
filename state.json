@@ -193,7 +193,10 @@
   "ct:BCEBB7EED5FF33AB61373E686DCF3405": 1794032684,
   "ct:6F80C232D53488AD61373E686DCF3405": 1794057942,
   "ct:0EC98C6FB11E848861373E686DCF3405": 1794075110,
-  "ct:E4854DE7BE7D0EBE61373E686DCF3405": 1794100111
+  "ct:E4854DE7BE7D0EBE61373E686DCF3405": 1794100111,
+  "ct:3055D32A44551E0061373E686DCF3405": 1794147994,
+  "ct:65920608F2EAF75361373E686DCF3405": 1794147994,
+  "rem:2091045": 1794147994
  },
  "pendientes": {
   "67c47d23d799": {
@@ -620,6 +623,11 @@
    "titulo": "Auxiliar administrativo/a",
    "empresa": "Auxiliar administrativo/a",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativoa-en-medellin-E4854DE7BE7D0EBE61373E686DCF3405"
+  },
+  "5987311069af": {
+   "titulo": "Auxiliar Administrativo vacante para personal con discapacidad",
+   "empresa": "Auxiliar Administrativo vacante para personal con discapacidad",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-vacante-para-personal-con-discapacidad-en-cali-65920608F2EAF75361373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -629,23 +637,29 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1794122502,
- "ultimo_resumen": "2026-11-07",
+ "ultima_busqueda": 1794147994,
+ "ultimo_resumen": "2026-11-08",
  "acum": {
   "nuevas": 3,
-  "enviadas": 2,
+  "enviadas": 1,
   "casi": [
    {
-    "titulo": "Analista de Demanda (Planificación de Ventas y Operaciones)",
-    "empresa": "Analista de Demanda (Planificación de Ventas y Operaciones)",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-demanda-planificacion-de-ventas-y-operaciones-forecast-comercial-en-bogota-dc-6F80C232D53488AD61373E686DCF3405",
-    "puntaje": -4
+    "titulo": "Analista Financiero(a) Vivienda",
+    "empresa": "Analista Financiero(a) Vivienda",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-financieroa-vivienda-cali-en-cali-3055D32A44551E0061373E686DCF3405",
+    "puntaje": 2
+   },
+   {
+    "titulo": "Tier III Service Desk Engineer",
+    "empresa": "Unio Digital",
+    "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+    "puntaje": -2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1794122477,
-  "computrabajo": 1794122501,
-  "remotive": 1794122502
+  "getonboard": 1794147968,
+  "computrabajo": 1794147993,
+  "remotive": 1794147993
  }
 }
