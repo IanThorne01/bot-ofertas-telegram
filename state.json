@@ -629,7 +629,7 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1794100111,
+ "ultima_busqueda": 1794122502,
  "ultimo_resumen": "2026-11-07",
  "acum": {
   "nuevas": 3,
@@ -644,8 +644,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1794100088,
-  "computrabajo": 1794100111,
-  "remotive": 1794088396
+  "getonboard": 1794122477,
+  "computrabajo": 1794122501,
+  "remotive": 1794122502
  }
 }
