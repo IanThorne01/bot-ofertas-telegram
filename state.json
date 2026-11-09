@@ -196,7 +196,12 @@
   "ct:E4854DE7BE7D0EBE61373E686DCF3405": 1794100111,
   "ct:3055D32A44551E0061373E686DCF3405": 1794147994,
   "ct:65920608F2EAF75361373E686DCF3405": 1794147994,
-  "rem:2091045": 1794147994
+  "rem:2091045": 1794147994,
+  "ct:BCF8166987F0C04861373E686DCF3405": 1794257070,
+  "ct:6FDA247C0DD5990061373E686DCF3405": 1794257070,
+  "ct:590554AC041038EE61373E686DCF3405": 1794257070,
+  "ct:82F45BACCCCB6C8E61373E686DCF3405": 1794257070,
+  "ct:C90CE991250F0CEC61373E686DCF3405": 1794257070
  },
  "pendientes": {
   "67c47d23d799": {
@@ -628,6 +633,16 @@
    "titulo": "Auxiliar Administrativo vacante para personal con discapacidad",
    "empresa": "Auxiliar Administrativo vacante para personal con discapacidad",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-vacante-para-personal-con-discapacidad-en-cali-65920608F2EAF75361373E686DCF3405"
+  },
+  "98e0a452c331": {
+   "titulo": "Analista de Sistemas manejo de  bases de datos e impresión",
+   "empresa": "Analista de Sistemas manejo de  bases de datos e impresión",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-sistemas-manejo-de-bases-de-datos-e-impresion-en-bogota-dc-6FDA247C0DD5990061373E686DCF3405"
+  },
+  "7ebf8f58086d": {
+   "titulo": "Analista de Datos",
+   "empresa": "Analista de Datos",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-data-lake-en-mosquera-590554AC041038EE61373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -637,29 +652,35 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1794218807,
- "ultimo_resumen": "2026-11-08",
+ "ultima_busqueda": 1794257070,
+ "ultimo_resumen": "2026-11-09",
  "acum": {
-  "nuevas": 3,
-  "enviadas": 1,
+  "nuevas": 5,
+  "enviadas": 2,
   "casi": [
    {
-    "titulo": "Analista Financiero(a) Vivienda",
-    "empresa": "Analista Financiero(a) Vivienda",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-financieroa-vivienda-cali-en-cali-3055D32A44551E0061373E686DCF3405",
+    "titulo": "Contador impuestos y supersociedades",
+    "empresa": "Contador impuestos y supersociedades",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-contador-impuestos-y-supersociedades-norte-de-bogota-en-bogota-dc-BCF8166987F0C04861373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Tier III Service Desk Engineer",
-    "empresa": "Unio Digital",
-    "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-    "puntaje": -2
+    "titulo": "Analista de Nomina Modalidad Hibrida",
+    "empresa": "Analista de Nomina Modalidad Hibrida",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-nomina-modalidad-hibrida-experiencia-en-aportes-en-linea-en-bogota-dc-82F45BACCCCB6C8E61373E686DCF3405",
+    "puntaje": 2
+   },
+   {
+    "titulo": "Asesores de call center SIN experiencia / Soporte técnico",
+    "empresa": "Asesores de call center SIN experiencia / Soporte técnico",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesores-de-call-center-sin-experiencia-soporte-tecnico-posibilidad-de-trabajar-desde-casa-en-bogota-dc-C90CE991250F0CEC61373E686DCF3405",
+    "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1794218783,
-  "computrabajo": 1794218807,
-  "remotive": 1794218807
+  "getonboard": 1794257044,
+  "computrabajo": 1794257068,
+  "remotive": 1794257068
  }
 }
