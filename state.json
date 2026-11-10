@@ -201,7 +201,12 @@
   "ct:6FDA247C0DD5990061373E686DCF3405": 1794257070,
   "ct:590554AC041038EE61373E686DCF3405": 1794257070,
   "ct:82F45BACCCCB6C8E61373E686DCF3405": 1794257070,
-  "ct:C90CE991250F0CEC61373E686DCF3405": 1794257070
+  "ct:C90CE991250F0CEC61373E686DCF3405": 1794257070,
+  "ct:7F5A14D49778072261373E686DCF3405": 1794279501,
+  "ct:A37A44311A59B46161373E686DCF3405": 1794279501,
+  "ct:210A3F173E68CF3161373E686DCF3405": 1794279501,
+  "ct:FC78ADBAD8FE032A61373E686DCF3405": 1794279501,
+  "ct:5A38AE47C9DD87FE61373E686DCF3405": 1794279501
  },
  "pendientes": {
   "67c47d23d799": {
@@ -643,6 +648,21 @@
    "titulo": "Analista de Datos",
    "empresa": "Analista de Datos",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-data-lake-en-mosquera-590554AC041038EE61373E686DCF3405"
+  },
+  "c051693f0a42": {
+   "titulo": "Auxiliar Administrativo (Excel Intermedio)",
+   "empresa": "Auxiliar Administrativo (Excel Intermedio)",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-excel-intermedio-en-bogota-dc-A37A44311A59B46161373E686DCF3405"
+  },
+  "8aa3ea6b1f41": {
+   "titulo": "Asistente Virtual: Entrada de Datos y Apoyo Administrativo",
+   "empresa": "Asistente Virtual: Entrada de Datos y Apoyo Administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-virtual-entrada-de-datos-y-apoyo-administrativo-en-barranquilla-7F5A14D49778072261373E686DCF3405"
+  },
+  "9082a46be23f": {
+   "titulo": "Analista de Datos Seguros",
+   "empresa": "Analista de Datos Seguros",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-seguros-siniestralidad-y-flotillas-en-bogota-dc-210A3F173E68CF3161373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -652,11 +672,11 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1794257070,
+ "ultima_busqueda": 1794279501,
  "ultimo_resumen": "2026-11-09",
  "acum": {
-  "nuevas": 5,
-  "enviadas": 2,
+  "nuevas": 10,
+  "enviadas": 5,
   "casi": [
    {
     "titulo": "Contador impuestos y supersociedades",
@@ -679,8 +699,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1794257044,
-  "computrabajo": 1794257068,
-  "remotive": 1794257068
+  "getonboard": 1794279475,
+  "computrabajo": 1794279499,
+  "remotive": 1794279500
  }
 }
