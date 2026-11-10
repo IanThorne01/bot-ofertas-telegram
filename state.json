@@ -669,37 +669,18 @@
   }
  },
  "guardadas": {},
- "offset": 675255168,
+ "offset": 675255172,
  "avisos": {
   "linkedin": 1792801353,
   "getonboard": 1793947559
  },
- "pausado": false,
+ "pausado": true,
  "ultima_busqueda": 1794308219,
- "ultimo_resumen": "2026-11-09",
+ "ultimo_resumen": "2026-11-10",
  "acum": {
-  "nuevas": 13,
-  "enviadas": 5,
-  "casi": [
-   {
-    "titulo": "Contador impuestos y supersociedades",
-    "empresa": "Contador impuestos y supersociedades",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-contador-impuestos-y-supersociedades-norte-de-bogota-en-bogota-dc-BCF8166987F0C04861373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Analista de Nomina Modalidad Hibrida",
-    "empresa": "Analista de Nomina Modalidad Hibrida",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-nomina-modalidad-hibrida-experiencia-en-aportes-en-linea-en-bogota-dc-82F45BACCCCB6C8E61373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Asesores de call center SIN experiencia / Soporte técnico",
-    "empresa": "Asesores de call center SIN experiencia / Soporte técnico",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesores-de-call-center-sin-experiencia-soporte-tecnico-posibilidad-de-trabajar-desde-casa-en-bogota-dc-C90CE991250F0CEC61373E686DCF3405",
-    "puntaje": 2
-   }
-  ]
+  "nuevas": 0,
+  "enviadas": 0,
+  "casi": []
  },
  "ultima_fuente": {
   "getonboard": 1794308193,
