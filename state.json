@@ -209,7 +209,12 @@
   "ct:5A38AE47C9DD87FE61373E686DCF3405": 1794279501,
   "ct:D94B652F8CE4C2A461373E686DCF3405": 1794308219,
   "ct:B02278D0AEA9E5CD61373E686DCF3405": 1794308219,
-  "ct:9C67E085A777DC7F61373E686DCF3405": 1794308219
+  "ct:9C67E085A777DC7F61373E686DCF3405": 1794308219,
+  "gob:infosec-analyst-i-lemontech-remote": 1794774603,
+  "ct:EC716D1579553D0261373E686DCF3405": 1794774603,
+  "ct:D8F24F082434EDF461373E686DCF3405": 1794774603,
+  "ct:04A7163C079721C561373E686DCF3405": 1794774603,
+  "ct:810B561DFFBA185C61373E686DCF3405": 1794774603
  },
  "pendientes": {
   "67c47d23d799": {
@@ -666,25 +671,50 @@
    "titulo": "Analista de Datos Seguros",
    "empresa": "Analista de Datos Seguros",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-seguros-siniestralidad-y-flotillas-en-bogota-dc-210A3F173E68CF3161373E686DCF3405"
+  },
+  "1536078a6079": {
+   "titulo": "Asistente administrativo y de datos junior vacante para personal con discapacidad",
+   "empresa": "Asistente administrativo y de datos junior vacante para personal con discapacidad",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-administrativo-y-de-datos-junior-vacante-para-personal-con-discapacidad-en-bogota-dc-EC716D1579553D0261373E686DCF3405"
+  },
+  "24fd75dbedf7": {
+   "titulo": "Analista de Datos y Automatización Junior",
+   "empresa": "Analista de Datos y Automatización Junior",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-y-automatizacion-junior-en-bogota-dc-04A7163C079721C561373E686DCF3405"
+  },
+  "13254d9432e1": {
+   "titulo": "Analista de Inteligencia de Acceso al Mercado, Automatización y Datos, Ingles B1",
+   "empresa": "Analista de Inteligencia de Acceso al Mercado, Automatización y Datos, Ingles B1",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-inteligencia-de-acceso-al-mercado-automatizacion-y-datos-ingles-b1-en-bogota-dc-D8F24F082434EDF461373E686DCF3405"
+  },
+  "1a6ba360d45a": {
+   "titulo": "Infosec Analyst I",
+   "empresa": "LemonTech",
+   "url": "https://www.getonbrd.com/jobs/infosec-analyst-i-lemontech-remote"
+  },
+  "bd144d75ba16": {
+   "titulo": "Practicante en ingeniería de sistemas",
+   "empresa": "Practicante en ingeniería de sistemas",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-en-ingenieria-de-sistemas-en-bogota-dc-810B561DFFBA185C61373E686DCF3405"
   }
  },
  "guardadas": {},
- "offset": 675255172,
+ "offset": 675255173,
  "avisos": {
   "linkedin": 1792801353,
   "getonboard": 1793947559
  },
- "pausado": true,
- "ultima_busqueda": 1794308219,
+ "pausado": false,
+ "ultima_busqueda": 1794774603,
  "ultimo_resumen": "2026-11-15",
  "acum": {
-  "nuevas": 0,
-  "enviadas": 0,
+  "nuevas": 5,
+  "enviadas": 5,
   "casi": []
  },
  "ultima_fuente": {
-  "getonboard": 1794308193,
-  "computrabajo": 1794308218,
-  "remotive": 1794308218
+  "getonboard": 1794774578,
+  "computrabajo": 1794774601,
+  "remotive": 1794774601
  }
 }
