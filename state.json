@@ -214,7 +214,11 @@
   "ct:EC716D1579553D0261373E686DCF3405": 1794774603,
   "ct:D8F24F082434EDF461373E686DCF3405": 1794774603,
   "ct:04A7163C079721C561373E686DCF3405": 1794774603,
-  "ct:810B561DFFBA185C61373E686DCF3405": 1794774603
+  "ct:810B561DFFBA185C61373E686DCF3405": 1794774603,
+  "ct:FDDAABF28C7382EB61373E686DCF3405": 1794848511,
+  "ct:733EF780FCAF7EE261373E686DCF3405": 1794848511,
+  "ct:5D187780ABA2B6FD61373E686DCF3405": 1794848511,
+  "ct:D155546C3666405E61373E686DCF3405": 1794848511
  },
  "pendientes": {
   "67c47d23d799": {
@@ -696,6 +700,16 @@
    "titulo": "Practicante en ingeniería de sistemas",
    "empresa": "Practicante en ingeniería de sistemas",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-en-ingenieria-de-sistemas-en-bogota-dc-810B561DFFBA185C61373E686DCF3405"
+  },
+  "9bda65948888": {
+   "titulo": "Tecnologo en Desarrollo de Software / desarrollador junior  / desarrollador de aplicaciones",
+   "empresa": "Tecnologo en Desarrollo de Software / desarrollador junior  / desarrollador de aplicaciones",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnologo-en-desarrollo-de-software-desarrollador-junior--desarrollador-de-aplicaciones-urgente-bogota-proceso-rapido-modalidad-hibrida-en-bogota-dc-FDDAABF28C7382EB61373E686DCF3405"
+  },
+  "85e64f9ab2f5": {
+   "titulo": "Asesores de Soporte Técnico Teletrabajo Medellín",
+   "empresa": "Asesores de Soporte Técnico Teletrabajo Medellín",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesores-de-soporte-tecnico-teletrabajo-medellin-maravillosas-comisiones-en-medellin-5D187780ABA2B6FD61373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -705,16 +719,29 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1794812682,
- "ultimo_resumen": "2026-11-15",
+ "ultima_busqueda": 1794848511,
+ "ultimo_resumen": "2026-11-16",
  "acum": {
-  "nuevas": 5,
-  "enviadas": 5,
-  "casi": []
+  "nuevas": 4,
+  "enviadas": 2,
+  "casi": [
+   {
+    "titulo": "Analista de Operaciones de Importación / Inhouse",
+    "empresa": "Analista de Operaciones de Importación / Inhouse",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-operaciones-de-importacion-inhouse-modalidad-hibrida-en-bogota-dc-733EF780FCAF7EE261373E686DCF3405",
+    "puntaje": 2
+   },
+   {
+    "titulo": "Soporte Técnico N1 Madrugada",
+    "empresa": "Soporte Técnico N1 Madrugada",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-tecnico-n1-madrugada-42-horas-semana-hibrido-en-bogota-dc-D155546C3666405E61373E686DCF3405",
+    "puntaje": 2
+   }
+  ]
  },
  "ultima_fuente": {
-  "getonboard": 1794812659,
-  "computrabajo": 1794812682,
-  "remotive": 1794812682
+  "getonboard": 1794848486,
+  "computrabajo": 1794848510,
+  "remotive": 1794848510
  }
 }
