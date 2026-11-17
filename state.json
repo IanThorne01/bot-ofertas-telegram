@@ -218,7 +218,9 @@
   "ct:FDDAABF28C7382EB61373E686DCF3405": 1794848511,
   "ct:733EF780FCAF7EE261373E686DCF3405": 1794848511,
   "ct:5D187780ABA2B6FD61373E686DCF3405": 1794848511,
-  "ct:D155546C3666405E61373E686DCF3405": 1794848511
+  "ct:D155546C3666405E61373E686DCF3405": 1794848511,
+  "ct:9B479C9D196FEBB961373E686DCF3405": 1794876539,
+  "ct:898A0D2B704C303961373E686DCF3405": 1794876539
  },
  "pendientes": {
   "67c47d23d799": {
@@ -710,6 +712,11 @@
    "titulo": "Asesores de Soporte Técnico Teletrabajo Medellín",
    "empresa": "Asesores de Soporte Técnico Teletrabajo Medellín",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesores-de-soporte-tecnico-teletrabajo-medellin-maravillosas-comisiones-en-medellin-5D187780ABA2B6FD61373E686DCF3405"
+  },
+  "deb2ac220a82": {
+   "titulo": "Remote Administrative Assistant",
+   "empresa": "Remote Administrative Assistant",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-remote-administrative-assistant-en-bogota-dc-898A0D2B704C303961373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -719,11 +726,11 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1794848511,
+ "ultima_busqueda": 1794876539,
  "ultimo_resumen": "2026-11-16",
  "acum": {
-  "nuevas": 4,
-  "enviadas": 2,
+  "nuevas": 6,
+  "enviadas": 3,
   "casi": [
    {
     "titulo": "Analista de Operaciones de Importación / Inhouse",
@@ -736,12 +743,18 @@
     "empresa": "Soporte Técnico N1 Madrugada",
     "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-tecnico-n1-madrugada-42-horas-semana-hibrido-en-bogota-dc-D155546C3666405E61373E686DCF3405",
     "puntaje": 2
+   },
+   {
+    "titulo": "Analista planeación de la demanda Sector textil",
+    "empresa": "Analista planeación de la demanda Sector textil",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-planeacion-de-la-demanda-sector-textil-en-medellin-9B479C9D196FEBB961373E686DCF3405",
+    "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1794848486,
-  "computrabajo": 1794848510,
-  "remotive": 1794848510
+  "getonboard": 1794876515,
+  "computrabajo": 1794876538,
+  "remotive": 1794876538
  }
 }
