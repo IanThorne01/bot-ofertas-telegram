@@ -220,7 +220,8 @@
   "ct:5D187780ABA2B6FD61373E686DCF3405": 1794848511,
   "ct:D155546C3666405E61373E686DCF3405": 1794848511,
   "ct:9B479C9D196FEBB961373E686DCF3405": 1794876539,
-  "ct:898A0D2B704C303961373E686DCF3405": 1794876539
+  "ct:898A0D2B704C303961373E686DCF3405": 1794876539,
+  "ct:8C45D4C063C7845861373E686DCF3405": 1794905484
  },
  "pendientes": {
   "67c47d23d799": {
@@ -717,6 +718,11 @@
    "titulo": "Remote Administrative Assistant",
    "empresa": "Remote Administrative Assistant",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-remote-administrative-assistant-en-bogota-dc-898A0D2B704C303961373E686DCF3405"
+  },
+  "e2afe68f81cb": {
+   "titulo": "Practicante de contaduría publica",
+   "empresa": "Practicante de contaduría publica",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-de-contaduria-publica-en-bogota-dc-8C45D4C063C7845861373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -726,11 +732,11 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1794876539,
+ "ultima_busqueda": 1794905484,
  "ultimo_resumen": "2026-11-16",
  "acum": {
-  "nuevas": 6,
-  "enviadas": 3,
+  "nuevas": 7,
+  "enviadas": 4,
   "casi": [
    {
     "titulo": "Analista de Operaciones de Importación / Inhouse",
@@ -753,8 +759,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1794876515,
-  "computrabajo": 1794876538,
-  "remotive": 1794876538
+  "getonboard": 1794905458,
+  "computrabajo": 1794905483,
+  "remotive": 1794905483
  }
 }
