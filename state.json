@@ -221,7 +221,8 @@
   "ct:D155546C3666405E61373E686DCF3405": 1794848511,
   "ct:9B479C9D196FEBB961373E686DCF3405": 1794876539,
   "ct:898A0D2B704C303961373E686DCF3405": 1794876539,
-  "ct:8C45D4C063C7845861373E686DCF3405": 1794905484
+  "ct:8C45D4C063C7845861373E686DCF3405": 1794905484,
+  "ct:B8062CDC59579BFB61373E686DCF3405": 1794939181
  },
  "pendientes": {
   "67c47d23d799": {
@@ -732,35 +733,23 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1794905484,
- "ultimo_resumen": "2026-11-16",
+ "ultima_busqueda": 1794939181,
+ "ultimo_resumen": "2026-11-17",
  "acum": {
-  "nuevas": 7,
-  "enviadas": 4,
+  "nuevas": 1,
+  "enviadas": 0,
   "casi": [
    {
-    "titulo": "Analista de Operaciones de Importación / Inhouse",
-    "empresa": "Analista de Operaciones de Importación / Inhouse",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-operaciones-de-importacion-inhouse-modalidad-hibrida-en-bogota-dc-733EF780FCAF7EE261373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Soporte Técnico N1 Madrugada",
-    "empresa": "Soporte Técnico N1 Madrugada",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-tecnico-n1-madrugada-42-horas-semana-hibrido-en-bogota-dc-D155546C3666405E61373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Analista planeación de la demanda Sector textil",
-    "empresa": "Analista planeación de la demanda Sector textil",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-planeacion-de-la-demanda-sector-textil-en-medellin-9B479C9D196FEBB961373E686DCF3405",
-    "puntaje": 2
+    "titulo": "Analista de Category Management",
+    "empresa": "Analista de Category Management",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-category-management-bogota-en-bogota-dc-B8062CDC59579BFB61373E686DCF3405",
+    "puntaje": -1
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1794905458,
-  "computrabajo": 1794905483,
-  "remotive": 1794905483
+  "getonboard": 1794939157,
+  "computrabajo": 1794939181,
+  "remotive": 1794939181
  }
 }
