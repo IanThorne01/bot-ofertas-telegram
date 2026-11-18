@@ -232,7 +232,23 @@
   "ct:243026C170D4AEC861373E686DCF3405": 1794963572,
   "ct:15F592FEAB593C8B61373E686DCF3405": 1794963572,
   "ct:C182A90FF91CDB2161373E686DCF3405": 1794990427,
-  "ct:E659A519911DBBA561373E686DCF3405": 1794990427
+  "ct:E659A519911DBBA561373E686DCF3405": 1794990427,
+  "gob:servicio-al-cliente-exactian-exactian-remote": 1795022924,
+  "ct:707B302CABB86ED461373E686DCF3405": 1795022924,
+  "ct:FE8766435ECCE0BA61373E686DCF3405": 1795022924,
+  "ct:2AC0B9B5A1429CFA61373E686DCF3405": 1795022924,
+  "ct:5BFC392AE4B8E30F61373E686DCF3405": 1795022924,
+  "ct:14BF4C6D8D1A7F5661373E686DCF3405": 1795022924,
+  "ct:2A88DFEE1AECB2D661373E686DCF3405": 1795022924,
+  "ct:D74D6FC8BE2DFF7461373E686DCF3405": 1795022924,
+  "ct:8BFED05E87CCB8D661373E686DCF3405": 1795022924,
+  "ct:F0DEAB3478082F0E61373E686DCF3405": 1795022924,
+  "ct:C994CBD230E2807261373E686DCF3405": 1795022924,
+  "ct:187FDC54BEE6B49561373E686DCF3405": 1795022924,
+  "ct:CD84474EED9FCC9461373E686DCF3405": 1795022924,
+  "ct:11C43F3C738BA53D61373E686DCF3405": 1795022924,
+  "ct:44CDF7CA743EB74661373E686DCF3405": 1795022924,
+  "ct:B4034AB8A70D9E5C61373E686DCF3405": 1795022924
  },
  "pendientes": {
   "67c47d23d799": {
@@ -749,6 +765,46 @@
    "titulo": "Analista Datos Logísticos",
    "empresa": "Analista Datos Logísticos",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-datos-logisticos-bogota-en-bogota-dc-C182A90FF91CDB2161373E686DCF3405"
+  },
+  "1128a4e98733": {
+   "titulo": "Auxiliar Datos Maestros Proveedores",
+   "empresa": "Auxiliar Datos Maestros Proveedores",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-datos-maestros-proveedores-en-medellin-707B302CABB86ED461373E686DCF3405"
+  },
+  "32bbfcef00b3": {
+   "titulo": "Analista de Datos – Especialista de Monitoreo de Riesgo de Crédito",
+   "empresa": "Analista de Datos – Especialista de Monitoreo de Riesgo de Crédito",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-especialista-de-monitoreo-de-riesgo-de-credito-en-bogota-dc-FE8766435ECCE0BA61373E686DCF3405"
+  },
+  "322da78a7017": {
+   "titulo": "Analista de Datos y Business Intelligence (BI).",
+   "empresa": "Analista de Datos y Business Intelligence (BI).",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-y-business-intelligence-bi-hibrido-bogota-en-bogota-dc-2AC0B9B5A1429CFA61373E686DCF3405"
+  },
+  "8243e06b6662": {
+   "titulo": "Analista de Datos y Automatización",
+   "empresa": "Analista de Datos y Automatización",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-y-automatizacion-bogota-en-bogota-dc-5BFC392AE4B8E30F61373E686DCF3405"
+  },
+  "ee70344a5530": {
+   "titulo": "Analista de Compras con Excel avanzado",
+   "empresa": "Analista de Compras con Excel avanzado",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-compras-con-excel-avanzado-en-bogota-dc-D74D6FC8BE2DFF7461373E686DCF3405"
+  },
+  "0d1910a65943": {
+   "titulo": "Analista de Compras con Excel avanzado",
+   "empresa": "Analista de Compras con Excel avanzado",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-compras-con-excel-avanzado-en-bogota-dc-8BFED05E87CCB8D661373E686DCF3405"
+  },
+  "b9ac62b66e06": {
+   "titulo": "Auxiliar Administrativo, manejo de documentación, facturación y cartera",
+   "empresa": "Auxiliar Administrativo, manejo de documentación, facturación y cartera",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-manejo-de-documentacion-facturacion-y-cartera-en-bogota-dc-44CDF7CA743EB74661373E686DCF3405"
+  },
+  "3cd91754de0a": {
+   "titulo": "Analista de Soporte de Aplicaciones",
+   "empresa": "Exactian",
+   "url": "https://www.getonbrd.com/jobs/servicio-al-cliente-exactian-exactian-remote"
   }
  },
  "guardadas": {},
@@ -758,35 +814,35 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1794990427,
- "ultimo_resumen": "2026-11-17",
+ "ultima_busqueda": 1795022924,
+ "ultimo_resumen": "2026-11-18",
  "acum": {
-  "nuevas": 11,
-  "enviadas": 3,
+  "nuevas": 16,
+  "enviadas": 8,
   "casi": [
    {
-    "titulo": "Coordinador de Selección",
-    "empresa": "Coordinador de Selección",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinador-de-seleccion-en-bogota-dc-876B8ECAB979F71C61373E686DCF3405",
+    "titulo": "Analista de Planeación Financiera",
+    "empresa": "Analista de Planeación Financiera",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-planeacion-financiera-empresa-de-alimentos-en-bogota-dc-14BF4C6D8D1A7F5661373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Analista de Operaciones",
-    "empresa": "Analista de Operaciones",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-operaciones-medellin-en-medellin-CE11D1CD6197671761373E686DCF3405",
+    "titulo": "Analista financiero",
+    "empresa": "Analista financiero",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-financiero-en-bogota-dc-2A88DFEE1AECB2D661373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Analista master control de operaciones",
-    "empresa": "Analista master control de operaciones",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-master-control-de-operaciones-en-bogota-dc-F6CC0F6FF8184E8A61373E686DCF3405",
+    "titulo": "Analista de calidad de servicio al cliente para personas con o sin discapacidad",
+    "empresa": "Analista de calidad de servicio al cliente para personas con o sin discapacidad",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-calidad-de-servicio-al-cliente-para-personas-con-o-sin-discapacidad-en-medellin-F0DEAB3478082F0E61373E686DCF3405",
     "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1794990401,
-  "computrabajo": 1794990426,
-  "remotive": 1794990426
+  "getonboard": 1795022895,
+  "computrabajo": 1795022919,
+  "remotive": 1795022920
  }
 }
