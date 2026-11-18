@@ -248,7 +248,14 @@
   "ct:CD84474EED9FCC9461373E686DCF3405": 1795022924,
   "ct:11C43F3C738BA53D61373E686DCF3405": 1795022924,
   "ct:44CDF7CA743EB74661373E686DCF3405": 1795022924,
-  "ct:B4034AB8A70D9E5C61373E686DCF3405": 1795022924
+  "ct:B4034AB8A70D9E5C61373E686DCF3405": 1795022924,
+  "ct:23C833DBA07B3E2B61373E686DCF3405": 1795044721,
+  "ct:A98DBC433F82D62861373E686DCF3405": 1795044721,
+  "ct:5C6AD2D8731C0D4A61373E686DCF3405": 1795044721,
+  "ct:AE1390B78F5A6B0761373E686DCF3405": 1795044721,
+  "ct:28F74A431B47583961373E686DCF3405": 1795044721,
+  "ct:A08BE38F2BBFFFDE61373E686DCF3405": 1795044721,
+  "ct:11004298204B0DBF61373E686DCF3405": 1795044721
  },
  "pendientes": {
   "67c47d23d799": {
@@ -805,6 +812,16 @@
    "titulo": "Analista de Soporte de Aplicaciones",
    "empresa": "Exactian",
    "url": "https://www.getonbrd.com/jobs/servicio-al-cliente-exactian-exactian-remote"
+  },
+  "3f166de959e8": {
+   "titulo": "Analista de datos y Bi",
+   "empresa": "Analista de datos y Bi",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-y-bi-en-bogota-dc-A98DBC433F82D62861373E686DCF3405"
+  },
+  "c70a8ee91d7a": {
+   "titulo": "Auxiliar administrativo de Gestión de Matriculas Motocicletas",
+   "empresa": "Auxiliar administrativo de Gestión de Matriculas Motocicletas",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-de-gestion-de-matriculas-motocicletas-en-bogota-dc-11004298204B0DBF61373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -814,11 +831,11 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1795022924,
+ "ultima_busqueda": 1795044721,
  "ultimo_resumen": "2026-11-18",
  "acum": {
-  "nuevas": 16,
-  "enviadas": 8,
+  "nuevas": 23,
+  "enviadas": 10,
   "casi": [
    {
     "titulo": "Analista de Planeación Financiera",
@@ -841,8 +858,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1795022895,
-  "computrabajo": 1795022919,
-  "remotive": 1795022920
+  "getonboard": 1795044697,
+  "computrabajo": 1795044720,
+  "remotive": 1795044720
  }
 }
