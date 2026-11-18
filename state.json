@@ -222,7 +222,15 @@
   "ct:9B479C9D196FEBB961373E686DCF3405": 1794876539,
   "ct:898A0D2B704C303961373E686DCF3405": 1794876539,
   "ct:8C45D4C063C7845861373E686DCF3405": 1794905484,
-  "ct:B8062CDC59579BFB61373E686DCF3405": 1794939181
+  "ct:B8062CDC59579BFB61373E686DCF3405": 1794939181,
+  "ct:876B8ECAB979F71C61373E686DCF3405": 1794963572,
+  "ct:CE11D1CD6197671761373E686DCF3405": 1794963572,
+  "ct:F6CC0F6FF8184E8A61373E686DCF3405": 1794963572,
+  "ct:B17B78580E826D6C61373E686DCF3405": 1794963572,
+  "ct:37883D0630EEE84861373E686DCF3405": 1794963572,
+  "ct:314D7B125C5674E961373E686DCF3405": 1794963572,
+  "ct:243026C170D4AEC861373E686DCF3405": 1794963572,
+  "ct:15F592FEAB593C8B61373E686DCF3405": 1794963572
  },
  "pendientes": {
   "67c47d23d799": {
@@ -724,6 +732,11 @@
    "titulo": "Practicante de contaduría publica",
    "empresa": "Practicante de contaduría publica",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-de-contaduria-publica-en-bogota-dc-8C45D4C063C7845861373E686DCF3405"
+  },
+  "612be524d8f4": {
+   "titulo": "Auxiliar Administrativo/a Call Center",
+   "empresa": "Auxiliar Administrativo/a Call Center",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativoa-call-center-en-medellin-15F592FEAB593C8B61373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -733,23 +746,35 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1794939181,
+ "ultima_busqueda": 1794963572,
  "ultimo_resumen": "2026-11-17",
  "acum": {
-  "nuevas": 1,
-  "enviadas": 0,
+  "nuevas": 9,
+  "enviadas": 1,
   "casi": [
    {
-    "titulo": "Analista de Category Management",
-    "empresa": "Analista de Category Management",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-category-management-bogota-en-bogota-dc-B8062CDC59579BFB61373E686DCF3405",
-    "puntaje": -1
+    "titulo": "Coordinador de Selección",
+    "empresa": "Coordinador de Selección",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinador-de-seleccion-en-bogota-dc-876B8ECAB979F71C61373E686DCF3405",
+    "puntaje": 2
+   },
+   {
+    "titulo": "Analista de Operaciones",
+    "empresa": "Analista de Operaciones",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-operaciones-medellin-en-medellin-CE11D1CD6197671761373E686DCF3405",
+    "puntaje": 2
+   },
+   {
+    "titulo": "Analista master control de operaciones",
+    "empresa": "Analista master control de operaciones",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-master-control-de-operaciones-en-bogota-dc-F6CC0F6FF8184E8A61373E686DCF3405",
+    "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1794939157,
-  "computrabajo": 1794939181,
-  "remotive": 1794939181
+  "getonboard": 1794963547,
+  "computrabajo": 1794963571,
+  "remotive": 1794963571
  }
 }
