@@ -230,7 +230,9 @@
   "ct:37883D0630EEE84861373E686DCF3405": 1794963572,
   "ct:314D7B125C5674E961373E686DCF3405": 1794963572,
   "ct:243026C170D4AEC861373E686DCF3405": 1794963572,
-  "ct:15F592FEAB593C8B61373E686DCF3405": 1794963572
+  "ct:15F592FEAB593C8B61373E686DCF3405": 1794963572,
+  "ct:C182A90FF91CDB2161373E686DCF3405": 1794990427,
+  "ct:E659A519911DBBA561373E686DCF3405": 1794990427
  },
  "pendientes": {
   "67c47d23d799": {
@@ -737,6 +739,16 @@
    "titulo": "Auxiliar Administrativo/a Call Center",
    "empresa": "Auxiliar Administrativo/a Call Center",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativoa-call-center-en-medellin-15F592FEAB593C8B61373E686DCF3405"
+  },
+  "3cf9ea1f4cab": {
+   "titulo": "Analista BI semisenior datos, reportería y automatización",
+   "empresa": "Analista BI semisenior datos, reportería y automatización",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-bi-semisenior-datos-reporteria-y-automatizacion-en-medellin-E659A519911DBBA561373E686DCF3405"
+  },
+  "c577b0baee1d": {
+   "titulo": "Analista Datos Logísticos",
+   "empresa": "Analista Datos Logísticos",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-datos-logisticos-bogota-en-bogota-dc-C182A90FF91CDB2161373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -746,11 +758,11 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1794963572,
+ "ultima_busqueda": 1794990427,
  "ultimo_resumen": "2026-11-17",
  "acum": {
-  "nuevas": 9,
-  "enviadas": 1,
+  "nuevas": 11,
+  "enviadas": 3,
   "casi": [
    {
     "titulo": "Coordinador de Selección",
@@ -773,8 +785,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1794963547,
-  "computrabajo": 1794963571,
-  "remotive": 1794963571
+  "getonboard": 1794990401,
+  "computrabajo": 1794990426,
+  "remotive": 1794990426
  }
 }
