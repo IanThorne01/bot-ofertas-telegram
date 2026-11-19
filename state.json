@@ -262,7 +262,14 @@
   "ct:5FD3C705FFD6569A61373E686DCF3405": 1795096578,
   "ct:556EC62722FE1C4E61373E686DCF3405": 1795096578,
   "ct:CEAC811C26652FBD61373E686DCF3405": 1795096578,
-  "ct:E0BBD43A68B8AF9B61373E686DCF3405": 1795096578
+  "ct:E0BBD43A68B8AF9B61373E686DCF3405": 1795096578,
+  "ct:B5772A3278FB7E9661373E686DCF3405": 1795125591,
+  "ct:13B328CAC1687C8161373E686DCF3405": 1795125591,
+  "ct:D6580514AB9C76C461373E686DCF3405": 1795125591,
+  "ct:DD1906DAA8CC507D61373E686DCF3405": 1795125591,
+  "ct:91D770C34AC6513961373E686DCF3405": 1795125591,
+  "ct:D6471E8BEAF6843361373E686DCF3405": 1795125591,
+  "ct:89393F56F4B849D561373E686DCF3405": 1795125591
  },
  "pendientes": {
   "67c47d23d799": {
@@ -834,6 +841,21 @@
    "titulo": "Analista QA de datos",
    "empresa": "Analista QA de datos",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-de-datos-en-bogota-dc-DECAF24BF16D03E261373E686DCF3405"
+  },
+  "2f1c9fed33ec": {
+   "titulo": "Analista Junior Bim",
+   "empresa": "Analista Junior Bim",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-junior-bim-en-medellin-13B328CAC1687C8161373E686DCF3405"
+  },
+  "66b8ac3dc86a": {
+   "titulo": "Auxiliar Contable y de Tesorería / Bogotá",
+   "empresa": "Auxiliar Contable y de Tesorería / Bogotá",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-contable-y-de-tesoreria-bogota-en-bogota-dc-D6580514AB9C76C461373E686DCF3405"
+  },
+  "32b441896447": {
+   "titulo": "Asesor de soporte tecnico teletrabajo // áreas de sistemas, soporte o afines.",
+   "empresa": "Asesor de soporte tecnico teletrabajo // áreas de sistemas, soporte o afines.",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-de-soporte-tecnico-teletrabajo-areas-de-sistemas-soporte-o-afines-en-medellin-91D770C34AC6513961373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -843,11 +865,11 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1795096578,
+ "ultima_busqueda": 1795125591,
  "ultimo_resumen": "2026-11-19",
  "acum": {
-  "nuevas": 6,
-  "enviadas": 1,
+  "nuevas": 13,
+  "enviadas": 4,
   "casi": [
    {
     "titulo": "Analista de Demanda (Supply Chain)",
@@ -870,8 +892,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1795096554,
-  "computrabajo": 1795096577,
-  "remotive": 1795096577
+  "getonboard": 1795125565,
+  "computrabajo": 1795125589,
+  "remotive": 1795125589
  }
 }
