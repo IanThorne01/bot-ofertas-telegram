@@ -256,7 +256,13 @@
   "ct:28F74A431B47583961373E686DCF3405": 1795044721,
   "ct:A08BE38F2BBFFFDE61373E686DCF3405": 1795044721,
   "ct:11004298204B0DBF61373E686DCF3405": 1795044721,
-  "ct:985D18413D92E6F361373E686DCF3405": 1795062696
+  "ct:985D18413D92E6F361373E686DCF3405": 1795062696,
+  "ct:DECAF24BF16D03E261373E686DCF3405": 1795096578,
+  "ct:D4BF7AAB375F1AF061373E686DCF3405": 1795096578,
+  "ct:5FD3C705FFD6569A61373E686DCF3405": 1795096578,
+  "ct:556EC62722FE1C4E61373E686DCF3405": 1795096578,
+  "ct:CEAC811C26652FBD61373E686DCF3405": 1795096578,
+  "ct:E0BBD43A68B8AF9B61373E686DCF3405": 1795096578
  },
  "pendientes": {
   "67c47d23d799": {
@@ -823,6 +829,11 @@
    "titulo": "Auxiliar administrativo de Gestión de Matriculas Motocicletas",
    "empresa": "Auxiliar administrativo de Gestión de Matriculas Motocicletas",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-de-gestion-de-matriculas-motocicletas-en-bogota-dc-11004298204B0DBF61373E686DCF3405"
+  },
+  "e6f81bae15e6": {
+   "titulo": "Analista QA de datos",
+   "empresa": "Analista QA de datos",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-de-datos-en-bogota-dc-DECAF24BF16D03E261373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -832,35 +843,35 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1795062696,
- "ultimo_resumen": "2026-11-18",
+ "ultima_busqueda": 1795096578,
+ "ultimo_resumen": "2026-11-19",
  "acum": {
-  "nuevas": 24,
-  "enviadas": 10,
+  "nuevas": 6,
+  "enviadas": 1,
   "casi": [
    {
-    "titulo": "Analista de Planeación Financiera",
-    "empresa": "Analista de Planeación Financiera",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-planeacion-financiera-empresa-de-alimentos-en-bogota-dc-14BF4C6D8D1A7F5661373E686DCF3405",
+    "titulo": "Analista de Demanda (Supply Chain)",
+    "empresa": "Analista de Demanda (Supply Chain)",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-demanda-supply-chain-en-bogota-dc-D4BF7AAB375F1AF061373E686DCF3405",
+    "puntaje": 2
+   },
+   {
+    "titulo": "Analista de Cuentas por Cobrar y cartera",
+    "empresa": "Analista de Cuentas por Cobrar y cartera",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-cuentas-por-cobrar-y-cartera-hibrido-medellin-en-medellin-5FD3C705FFD6569A61373E686DCF3405",
     "puntaje": 2
    },
    {
     "titulo": "Analista financiero",
     "empresa": "Analista financiero",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-financiero-en-bogota-dc-2A88DFEE1AECB2D661373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Analista de calidad de servicio al cliente para personas con o sin discapacidad",
-    "empresa": "Analista de calidad de servicio al cliente para personas con o sin discapacidad",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-calidad-de-servicio-al-cliente-para-personas-con-o-sin-discapacidad-en-medellin-F0DEAB3478082F0E61373E686DCF3405",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-financiero-tesoreria-y-cartera-en-medellin-556EC62722FE1C4E61373E686DCF3405",
     "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1795062671,
-  "computrabajo": 1795062696,
-  "remotive": 1795044720
+  "getonboard": 1795096554,
+  "computrabajo": 1795096577,
+  "remotive": 1795096577
  }
 }
