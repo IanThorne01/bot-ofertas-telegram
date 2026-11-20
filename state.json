@@ -274,7 +274,12 @@
   "ct:B5FA26297BEB858861373E686DCF3405": 1795143554,
   "ct:7DB040097F4A9C0B61373E686DCF3405": 1795143554,
   "ct:D9BD0471DFCCA78861373E686DCF3405": 1795143554,
-  "ct:A68BE8AF463D617961373E686DCF3405": 1795143554
+  "ct:A68BE8AF463D617961373E686DCF3405": 1795143554,
+  "ct:F96CA26852ABF25A61373E686DCF3405": 1795173447,
+  "ct:E546F980F911741A61373E686DCF3405": 1795173447,
+  "ct:CAA2D0B299750E9761373E686DCF3405": 1795173447,
+  "ct:E91630C1A6B020D461373E686DCF3405": 1795173447,
+  "ct:798916614507FD3161373E686DCF3405": 1795173447
  },
  "pendientes": {
   "67c47d23d799": {
@@ -871,6 +876,11 @@
    "titulo": "auxiliar contable y administrativo",
    "empresa": "auxiliar contable y administrativo",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-contable-y-administrativo-medio-tiempo-experiencia-en-siigo-en-bogota-dc-A68BE8AF463D617961373E686DCF3405"
+  },
+  "8496a3c03d25": {
+   "titulo": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
+   "empresa": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-back-officetecnicos-o-tecnologosauxiliar-administrativo-6-meses-en-call-center-en-bogota-dc-798916614507FD3161373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -880,11 +890,11 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1795143554,
+ "ultima_busqueda": 1795173447,
  "ultimo_resumen": "2026-11-19",
  "acum": {
-  "nuevas": 18,
-  "enviadas": 6,
+  "nuevas": 23,
+  "enviadas": 7,
   "casi": [
    {
     "titulo": "Analista de Demanda (Supply Chain)",
@@ -907,8 +917,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1795143531,
-  "computrabajo": 1795143553,
-  "remotive": 1795125589
+  "getonboard": 1795173423,
+  "computrabajo": 1795173447,
+  "remotive": 1795173447
  }
 }
