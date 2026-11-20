@@ -269,7 +269,12 @@
   "ct:DD1906DAA8CC507D61373E686DCF3405": 1795125591,
   "ct:91D770C34AC6513961373E686DCF3405": 1795125591,
   "ct:D6471E8BEAF6843361373E686DCF3405": 1795125591,
-  "ct:89393F56F4B849D561373E686DCF3405": 1795125591
+  "ct:89393F56F4B849D561373E686DCF3405": 1795125591,
+  "ct:CC4596115F8338DD61373E686DCF3405": 1795143554,
+  "ct:B5FA26297BEB858861373E686DCF3405": 1795143554,
+  "ct:7DB040097F4A9C0B61373E686DCF3405": 1795143554,
+  "ct:D9BD0471DFCCA78861373E686DCF3405": 1795143554,
+  "ct:A68BE8AF463D617961373E686DCF3405": 1795143554
  },
  "pendientes": {
   "67c47d23d799": {
@@ -856,6 +861,16 @@
    "titulo": "Asesor de soporte tecnico teletrabajo // áreas de sistemas, soporte o afines.",
    "empresa": "Asesor de soporte tecnico teletrabajo // áreas de sistemas, soporte o afines.",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-de-soporte-tecnico-teletrabajo-areas-de-sistemas-soporte-o-afines-en-medellin-91D770C34AC6513961373E686DCF3405"
+  },
+  "34169d4bc8d1": {
+   "titulo": "Analista de Datos (Vacante para Personas con Discapacidad)",
+   "empresa": "Analista de Datos (Vacante para Personas con Discapacidad)",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-vacante-para-personas-con-discapacidad-en-bogota-dc-CC4596115F8338DD61373E686DCF3405"
+  },
+  "20adb84f82f6": {
+   "titulo": "auxiliar contable y administrativo",
+   "empresa": "auxiliar contable y administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-contable-y-administrativo-medio-tiempo-experiencia-en-siigo-en-bogota-dc-A68BE8AF463D617961373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -865,11 +880,11 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1795125591,
+ "ultima_busqueda": 1795143554,
  "ultimo_resumen": "2026-11-19",
  "acum": {
-  "nuevas": 13,
-  "enviadas": 4,
+  "nuevas": 18,
+  "enviadas": 6,
   "casi": [
    {
     "titulo": "Analista de Demanda (Supply Chain)",
@@ -892,8 +907,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1795125565,
-  "computrabajo": 1795125589,
+  "getonboard": 1795143531,
+  "computrabajo": 1795143553,
   "remotive": 1795125589
  }
 }
