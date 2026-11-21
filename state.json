@@ -279,7 +279,15 @@
   "ct:E546F980F911741A61373E686DCF3405": 1795173447,
   "ct:CAA2D0B299750E9761373E686DCF3405": 1795173447,
   "ct:E91630C1A6B020D461373E686DCF3405": 1795173447,
-  "ct:798916614507FD3161373E686DCF3405": 1795173447
+  "ct:798916614507FD3161373E686DCF3405": 1795173447,
+  "ct:36272CA1BCCABBD361373E686DCF3405": 1795222200,
+  "ct:D68716A11332C70D61373E686DCF3405": 1795222200,
+  "ct:E199459E5A63624761373E686DCF3405": 1795222200,
+  "ct:2D7A85BF0730123A61373E686DCF3405": 1795222200,
+  "ct:E676A13720823F1D61373E686DCF3405": 1795222200,
+  "ct:A110361A57DBC8CA61373E686DCF3405": 1795222200,
+  "ct:53954ECC2877542561373E686DCF3405": 1795222200,
+  "ct:03254FFF2270F8B061373E686DCF3405": 1795222200
  },
  "pendientes": {
   "67c47d23d799": {
@@ -881,6 +889,21 @@
    "titulo": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
    "empresa": "Back Office/Técnicos o Tecnólogos/Auxiliar Administrativo",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-back-officetecnicos-o-tecnologosauxiliar-administrativo-6-meses-en-call-center-en-bogota-dc-798916614507FD3161373E686DCF3405"
+  },
+  "f91999c56362": {
+   "titulo": "Analista de datos comerciales",
+   "empresa": "Analista de datos comerciales",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-comerciales-trade-marketing-en-medellin-36272CA1BCCABBD361373E686DCF3405"
+  },
+  "b5ce6b0b14e6": {
+   "titulo": "Analista De Datos Urgente",
+   "empresa": "Analista De Datos Urgente",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-urgente-en-mosquera-D68716A11332C70D61373E686DCF3405"
+  },
+  "ad4138c2a9c8": {
+   "titulo": "Auxiliar administrativo manejo de documentación, facturación y cartera",
+   "empresa": "Auxiliar administrativo manejo de documentación, facturación y cartera",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-manejo-de-documentacion-facturacion-y-cartera-manejo-siigo-nube-en-bogota-dc-03254FFF2270F8B061373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -890,35 +913,35 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1795173447,
- "ultimo_resumen": "2026-11-19",
+ "ultima_busqueda": 1795222200,
+ "ultimo_resumen": "2026-11-20",
  "acum": {
-  "nuevas": 23,
-  "enviadas": 7,
+  "nuevas": 8,
+  "enviadas": 3,
   "casi": [
    {
-    "titulo": "Analista de Demanda (Supply Chain)",
-    "empresa": "Analista de Demanda (Supply Chain)",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-demanda-supply-chain-en-bogota-dc-D4BF7AAB375F1AF061373E686DCF3405",
+    "titulo": "Analista Record to Report",
+    "empresa": "Analista Record to Report",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-record-to-report-en-bogota-dc-E199459E5A63624761373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Analista de Cuentas por Cobrar y cartera",
-    "empresa": "Analista de Cuentas por Cobrar y cartera",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-cuentas-por-cobrar-y-cartera-hibrido-medellin-en-medellin-5FD3C705FFD6569A61373E686DCF3405",
+    "titulo": "Analista de Operaciones de Servicio al Cliente, Nivel 1",
+    "empresa": "Analista de Operaciones de Servicio al Cliente, Nivel 1",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-operaciones-de-servicio-al-cliente-nivel-1-en-bogota-dc-2D7A85BF0730123A61373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Analista financiero",
-    "empresa": "Analista financiero",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-financiero-tesoreria-y-cartera-en-medellin-556EC62722FE1C4E61373E686DCF3405",
+    "titulo": "Analista Contable Bilingüe Portugués Avanzado",
+    "empresa": "Analista Contable Bilingüe Portugués Avanzado",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-contable-bilingue-portugues-avanzado-en-bogota-dc-E676A13720823F1D61373E686DCF3405",
     "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1795173423,
-  "computrabajo": 1795173447,
-  "remotive": 1795173447
+  "getonboard": 1795222175,
+  "computrabajo": 1795222198,
+  "remotive": 1795222198
  }
 }
