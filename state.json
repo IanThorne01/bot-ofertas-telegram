@@ -287,7 +287,8 @@
   "ct:E676A13720823F1D61373E686DCF3405": 1795222200,
   "ct:A110361A57DBC8CA61373E686DCF3405": 1795222200,
   "ct:53954ECC2877542561373E686DCF3405": 1795222200,
-  "ct:03254FFF2270F8B061373E686DCF3405": 1795222200
+  "ct:03254FFF2270F8B061373E686DCF3405": 1795222200,
+  "ct:1A84ECCB18350FC561373E686DCF3405": 1795248143
  },
  "pendientes": {
   "67c47d23d799": {
@@ -913,10 +914,10 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1795222200,
+ "ultima_busqueda": 1795248143,
  "ultimo_resumen": "2026-11-20",
  "acum": {
-  "nuevas": 8,
+  "nuevas": 9,
   "enviadas": 3,
   "casi": [
    {
@@ -940,8 +941,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1795222175,
-  "computrabajo": 1795222198,
-  "remotive": 1795222198
+  "getonboard": 1795248118,
+  "computrabajo": 1795248143,
+  "remotive": 1795248143
  }
 }
