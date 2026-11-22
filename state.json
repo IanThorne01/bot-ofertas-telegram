@@ -297,7 +297,11 @@
   "ct:5BE90A96B5F49F0561373E686DCF3405": 1795297238,
   "ct:1BAD5A7F1DF2275661373E686DCF3405": 1795297238,
   "ct:0DEE3BE91566AC8961373E686DCF3405": 1795311409,
-  "ct:1EABD72A0A65ADB361373E686DCF3405": 1795337531
+  "ct:1EABD72A0A65ADB361373E686DCF3405": 1795337531,
+  "ct:A5778BBD42726D9561373E686DCF3405": 1795366549,
+  "ct:8F5C80F08B411AAB61373E686DCF3405": 1795366549,
+  "ct:17077FB1F194EFF361373E686DCF3405": 1795366549,
+  "ct:289C08914A4480BF61373E686DCF3405": 1795366549
  },
  "pendientes": {
   "67c47d23d799": {
@@ -929,6 +933,16 @@
    "titulo": "Auxiliar administrativo vivienda",
    "empresa": "Auxiliar administrativo vivienda",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-vivienda-credito-hipotecario-en-medellin-1BAD5A7F1DF2275661373E686DCF3405"
+  },
+  "6c4bf820d2c9": {
+   "titulo": "Auxiliar administrativo",
+   "empresa": "Auxiliar administrativo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-atencion-chat-en-bogota-dc-289C08914A4480BF61373E686DCF3405"
+  },
+  "fd0fd8e0b744": {
+   "titulo": "Coordinador Jr. SAP Funcional",
+   "empresa": "Coordinador Jr. SAP Funcional",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinador-jr-sap-funcional-bogota-en-bogota-dc-8F5C80F08B411AAB61373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -938,35 +952,29 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1795337531,
- "ultimo_resumen": "2026-11-21",
+ "ultima_busqueda": 1795366549,
+ "ultimo_resumen": "2026-11-22",
  "acum": {
-  "nuevas": 9,
-  "enviadas": 3,
+  "nuevas": 4,
+  "enviadas": 2,
   "casi": [
    {
-    "titulo": "Analista de consolidación Financiera / Medellín",
-    "empresa": "Analista de consolidación Financiera / Medellín",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-consolidacion-financiera-medellin-en-sabaneta-BE1F305D260AFD5C61373E686DCF3405",
+    "titulo": "Análista de Mercado (Sector de energía Solar)",
+    "empresa": "Análista de Mercado (Sector de energía Solar)",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-mercado-sector-de-energia-solar-bogota-en-bogota-dc-17077FB1F194EFF361373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Analista Tesorería",
-    "empresa": "Analista Tesorería",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-tesoreria-en-bogota-dc-719079CA60C4551461373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Analista Servicio Logistica Cadenas",
-    "empresa": "Analista Servicio Logistica Cadenas",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-servicio-logistica-cadenas-en-bogota-dc-2A894D12D34EBC9661373E686DCF3405",
-    "puntaje": 2
+    "titulo": "Analista Contable Senior",
+    "empresa": "Analista Contable Senior",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-contable-senior-en-bogota-dc-A5778BBD42726D9561373E686DCF3405",
+    "puntaje": -8
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1795337507,
-  "computrabajo": 1795337531,
-  "remotive": 1795337531
+  "getonboard": 1795366523,
+  "computrabajo": 1795366548,
+  "remotive": 1795366548
  }
 }
