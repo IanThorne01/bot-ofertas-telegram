@@ -301,7 +301,8 @@
   "ct:A5778BBD42726D9561373E686DCF3405": 1795366549,
   "ct:8F5C80F08B411AAB61373E686DCF3405": 1795366549,
   "ct:17077FB1F194EFF361373E686DCF3405": 1795366549,
-  "ct:289C08914A4480BF61373E686DCF3405": 1795366549
+  "ct:289C08914A4480BF61373E686DCF3405": 1795366549,
+  "ct:FFA2C7077BDBCEF261373E686DCF3405": 1795385971
  },
  "pendientes": {
   "67c47d23d799": {
@@ -943,6 +944,11 @@
    "titulo": "Coordinador Jr. SAP Funcional",
    "empresa": "Coordinador Jr. SAP Funcional",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinador-jr-sap-funcional-bogota-en-bogota-dc-8F5C80F08B411AAB61373E686DCF3405"
+  },
+  "e871c339cb77": {
+   "titulo": "Asesores de Soporte Técnico N2 ¡Teletrabajo!",
+   "empresa": "Asesores de Soporte Técnico N2 ¡Teletrabajo!",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesores-de-soporte-tecnico-n2-teletrabajo-en-medellin-FFA2C7077BDBCEF261373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -952,11 +958,11 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1795366549,
+ "ultima_busqueda": 1795385971,
  "ultimo_resumen": "2026-11-22",
  "acum": {
-  "nuevas": 4,
-  "enviadas": 2,
+  "nuevas": 5,
+  "enviadas": 3,
   "casi": [
    {
     "titulo": "Análista de Mercado (Sector de energía Solar)",
@@ -973,8 +979,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1795366523,
-  "computrabajo": 1795366548,
+  "getonboard": 1795385947,
+  "computrabajo": 1795385971,
   "remotive": 1795366548
  }
 }
