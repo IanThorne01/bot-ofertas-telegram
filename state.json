@@ -1,19 +1,5 @@
 {
  "vistas": {
-  "ct:7FE18F57CA56446B61373E686DCF3405": 1792801367,
-  "ct:98051E7B0EC90D2461373E686DCF3405": 1792801367,
-  "ct:CA495496FFC84E1761373E686DCF3405": 1792801367,
-  "ct:FD6D7930EAB19D3D61373E686DCF3405": 1792801367,
-  "ct:1F07C18D3D149D0D61373E686DCF3405": 1792801367,
-  "ct:B7015D133FD4AA0C61373E686DCF3405": 1792801367,
-  "ct:1692E52DA4402F0161373E686DCF3405": 1792801367,
-  "ct:4E52F7F2298C6BE761373E686DCF3405": 1792801367,
-  "ct:F3366276DF6A1FB761373E686DCF3405": 1792801367,
-  "ct:D9128948969D9DC061373E686DCF3405": 1792801367,
-  "ct:E38739321D555E1861373E686DCF3405": 1792801367,
-  "ct:61EB0964C99007F861373E686DCF3405": 1792801367,
-  "ct:9B399A7C9AFC27BF61373E686DCF3405": 1792803738,
-  "ct:7CDEED5353AD474761373E686DCF3405": 1792803738,
   "ct:103609EECD08252161373E686DCF3405": 1792819599,
   "rem:2091161": 1792835081,
   "ct:F4FC236BC76391B461373E686DCF3405": 1792849141,
@@ -302,7 +288,9 @@
   "ct:8F5C80F08B411AAB61373E686DCF3405": 1795366549,
   "ct:17077FB1F194EFF361373E686DCF3405": 1795366549,
   "ct:289C08914A4480BF61373E686DCF3405": 1795366549,
-  "ct:FFA2C7077BDBCEF261373E686DCF3405": 1795385971
+  "ct:FFA2C7077BDBCEF261373E686DCF3405": 1795385971,
+  "ct:26AF7A66B6816A7461373E686DCF3405": 1795402721,
+  "ct:9E116728F7CF0D4E61373E686DCF3405": 1795402721
  },
  "pendientes": {
   "67c47d23d799": {
@@ -958,10 +946,10 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1795385971,
+ "ultima_busqueda": 1795402721,
  "ultimo_resumen": "2026-11-22",
  "acum": {
-  "nuevas": 5,
+  "nuevas": 7,
   "enviadas": 3,
   "casi": [
    {
@@ -971,16 +959,22 @@
     "puntaje": 2
    },
    {
-    "titulo": "Analista Contable Senior",
-    "empresa": "Analista Contable Senior",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-contable-senior-en-bogota-dc-A5778BBD42726D9561373E686DCF3405",
-    "puntaje": -8
+    "titulo": "Agentes de call center SIN experiencia / Soporte técnico",
+    "empresa": "Agentes de call center SIN experiencia / Soporte técnico",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-agentes-de-call-center-sin-experiencia-soporte-tecnico-posibilidad-de-trabajar-desde-casa-en-bogota-dc-26AF7A66B6816A7461373E686DCF3405",
+    "puntaje": 2
+   },
+   {
+    "titulo": "¡Trabajo urgente Medellin! Asesor de servicio al cliente aplican aux administrativos",
+    "empresa": "¡Trabajo urgente Medellin! Asesor de servicio al cliente aplican aux administrativos",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-urgente-medellin-asesor-de-servicio-al-cliente-aplican-aux-administrativos-sector-de-telecomunicaciones-teletrabajo-despues-del-primer-mes-en-medellin-9E116728F7CF0D4E61373E686DCF3405",
+    "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1795385947,
-  "computrabajo": 1795385971,
-  "remotive": 1795366548
+  "getonboard": 1795402696,
+  "computrabajo": 1795402720,
+  "remotive": 1795402721
  }
 }
