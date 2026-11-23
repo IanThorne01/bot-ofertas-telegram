@@ -1,30 +1,5 @@
 {
  "vistas": {
-  "ct:F4FC236BC76391B461373E686DCF3405": 1792849141,
-  "ct:848B790F161736CA61373E686DCF3405": 1792849141,
-  "ct:9B11FAF8539230ED61373E686DCF3405": 1792849141,
-  "ct:FABC3548A007979461373E686DCF3405": 1792849141,
-  "ct:BD8F4341F675B26A61373E686DCF3405": 1792849141,
-  "ct:4BEEAA5A210CFB9161373E686DCF3405": 1792849141,
-  "ct:9552FC0E44B0D32F61373E686DCF3405": 1792849141,
-  "ct:ED4D79198179507661373E686DCF3405": 1792849141,
-  "ct:505BA9092FD6FC2361373E686DCF3405": 1792849141,
-  "ct:99E0AA61F930691E61373E686DCF3405": 1792849141,
-  "ct:65CA45AD4D4322F061373E686DCF3405": 1792849141,
-  "ct:2DE7EE89DA9EC4E261373E686DCF3405": 1792861211,
-  "ct:30283BA39E0A6DD161373E686DCF3405": 1792861211,
-  "ct:C34267512DBF980C61373E686DCF3405": 1792861211,
-  "ct:59C9FD91ED03451061373E686DCF3405": 1792861211,
-  "ct:D65DBDD1486D90CF61373E686DCF3405": 1792861211,
-  "ct:7182C43528184AF561373E686DCF3405": 1792861211,
-  "ct:426546345875532361373E686DCF3405": 1792861211,
-  "ct:A6E428D937068F4361373E686DCF3405": 1792861211,
-  "ct:9E49F78B90669A8D61373E686DCF3405": 1792861211,
-  "ct:E9D6BF995001B2DA61373E686DCF3405": 1792861211,
-  "ct:112466ECDDCFA28F61373E686DCF3405": 1792861211,
-  "ct:EDDB53835504ACA161373E686DCF3405": 1792861211,
-  "ct:95D7C21FCE99F0A861373E686DCF3405": 1792869901,
-  "ct:F585D6722AB0588E61373E686DCF3405": 1792869901,
   "ct:0ABDAC361EE24BC461373E686DCF3405": 1792898867,
   "ct:2D880E60A0B5010D61373E686DCF3405": 1792934586,
   "ct:E8CD1BE508B0AEA261373E686DCF3405": 1792934586,
@@ -293,7 +268,14 @@
   "ct:CA495496FFC84E1761373E686DCF3405": 1795435813,
   "ct:6EE78ED1D270C3EA61373E686DCF3405": 1795435813,
   "ct:D0E8776CC1F5F3C661373E686DCF3405": 1795435813,
-  "ct:D9128948969D9DC061373E686DCF3405": 1795435813
+  "ct:D9128948969D9DC061373E686DCF3405": 1795435813,
+  "gob:noc-soporte-interno-sms-smpp-api-sip-a2p-ipcom-colombia-s-a-s-remote": 1795478064,
+  "ct:A0CE0E5C70CC161361373E686DCF3405": 1795478064,
+  "ct:2A71CA8DBACFD5B061373E686DCF3405": 1795478064,
+  "ct:27837D7D5D4E614D61373E686DCF3405": 1795478064,
+  "ct:F01D5E160CB3D2BB61373E686DCF3405": 1795478064,
+  "ct:B6B7D5D0AA09E21F61373E686DCF3405": 1795478064,
+  "ct:EA2E43AC0F1511FD61373E686DCF3405": 1795478064
  },
  "pendientes": {
   "67c47d23d799": {
@@ -945,6 +927,26 @@
    "titulo": "Analista contable junior",
    "empresa": "Analista contable junior",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-contable-junior-en-bogota-dc-6EE78ED1D270C3EA61373E686DCF3405"
+  },
+  "18a25192f0ff": {
+   "titulo": "analista  base de datos bilingue medellin",
+   "empresa": "analista  base de datos bilingue medellin",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-base-de-datos-bilingue-medellin-en-medellin-A0CE0E5C70CC161361373E686DCF3405"
+  },
+  "76e95969a2a4": {
+   "titulo": "Auxiliar administrativo medio tiempo",
+   "empresa": "Auxiliar administrativo medio tiempo",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-medio-tiempo-proceso-de-inclusion-pcd-en-cota-B6B7D5D0AA09E21F61373E686DCF3405"
+  },
+  "ece0e2a87daf": {
+   "titulo": "Auxiliar Administrativo (Vacante de Inclusión laboral)",
+   "empresa": "Auxiliar Administrativo (Vacante de Inclusión laboral)",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-administrativo-vacante-de-inclusion-laboral-en-bogota-dc-EA2E43AC0F1511FD61373E686DCF3405"
+  },
+  "95e74d23f709": {
+   "titulo": "Consultor Funcional / Business Analyst – Dynamics 365 Contact Center",
+   "empresa": "Consultor Funcional / Business Analyst – Dynamics 365 Contact Center",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-consultor-funcional-business-analyst-dynamics-365-contact-center-desarrolladora-frontend-y-tienes-experiencia-en-cells-en-bogota-dc-27837D7D5D4E614D61373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -954,35 +956,35 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1795435813,
- "ultimo_resumen": "2026-11-22",
+ "ultima_busqueda": 1795478064,
+ "ultimo_resumen": "2026-11-23",
  "acum": {
-  "nuevas": 12,
-  "enviadas": 7,
+  "nuevas": 7,
+  "enviadas": 4,
   "casi": [
    {
-    "titulo": "Análista de Mercado (Sector de energía Solar)",
-    "empresa": "Análista de Mercado (Sector de energía Solar)",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-mercado-sector-de-energia-solar-bogota-en-bogota-dc-17077FB1F194EFF361373E686DCF3405",
+    "titulo": "Asesor de Soporte Técnico BackOffice",
+    "empresa": "Asesor de Soporte Técnico BackOffice",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-de-soporte-tecnico-backoffice-trabaja-desde-casa-en-medellin-en-medellin-F01D5E160CB3D2BB61373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "Agentes de call center SIN experiencia / Soporte técnico",
-    "empresa": "Agentes de call center SIN experiencia / Soporte técnico",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-agentes-de-call-center-sin-experiencia-soporte-tecnico-posibilidad-de-trabajar-desde-casa-en-bogota-dc-26AF7A66B6816A7461373E686DCF3405",
-    "puntaje": 2
+    "titulo": "NOC Soporte Interno Sms (Smpp, API, SIP, A2p)",
+    "empresa": "IPCOM Colombia S.A.S.",
+    "url": "https://www.getonbrd.com/jobs/noc-soporte-interno-sms-smpp-api-sip-a2p-ipcom-colombia-s-a-s-remote",
+    "puntaje": 0
    },
    {
-    "titulo": "¡Trabajo urgente Medellin! Asesor de servicio al cliente aplican aux administrativos",
-    "empresa": "¡Trabajo urgente Medellin! Asesor de servicio al cliente aplican aux administrativos",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-urgente-medellin-asesor-de-servicio-al-cliente-aplican-aux-administrativos-sector-de-telecomunicaciones-teletrabajo-despues-del-primer-mes-en-medellin-9E116728F7CF0D4E61373E686DCF3405",
-    "puntaje": 2
+    "titulo": "Analista de ventas o Analista Comercial",
+    "empresa": "Analista de ventas o Analista Comercial",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-ventas-o-analista-comercial-bogota-en-bogota-dc-2A71CA8DBACFD5B061373E686DCF3405",
+    "puntaje": -10
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1795435786,
-  "computrabajo": 1795435810,
-  "remotive": 1795435811
+  "getonboard": 1795478038,
+  "computrabajo": 1795478062,
+  "remotive": 1795478062
  }
 }
