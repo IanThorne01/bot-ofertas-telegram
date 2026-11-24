@@ -1,16 +1,5 @@
 {
  "vistas": {
-  "ct:2D880E60A0B5010D61373E686DCF3405": 1792934586,
-  "ct:E8CD1BE508B0AEA261373E686DCF3405": 1792934586,
-  "ct:BBA0697515AD70CF61373E686DCF3405": 1792934586,
-  "ct:7E2AA7C88085276361373E686DCF3405": 1792934586,
-  "ct:03BC039103A02F3861373E686DCF3405": 1792934586,
-  "ct:27085A5FDF3935D561373E686DCF3405": 1792934586,
-  "ct:7747D240B4EB4D0E61373E686DCF3405": 1792934586,
-  "ct:686F335526E1BBAE61373E686DCF3405": 1792934586,
-  "ct:947D2809BE2501CC61373E686DCF3405": 1792934586,
-  "ct:B9EBC3C87085323D61373E686DCF3405": 1792948245,
-  "ct:3065BA179175AFCF61373E686DCF3405": 1792948245,
   "ct:34C1D704DA3EF5AD61373E686DCF3405": 1793151486,
   "ct:6BB398E19BE8A9E761373E686DCF3405": 1793151486,
   "ct:BECDFFF94B1C3CE661373E686DCF3405": 1793151486,
@@ -278,7 +267,11 @@
   "ct:C90917E2A36C577961373E686DCF3405": 1795509653,
   "ct:8D60C2547438060261373E686DCF3405": 1795509653,
   "ct:335BD4A3CB381D7D61373E686DCF3405": 1795509653,
-  "ct:F8DDA4BCFD48D39261373E686DCF3405": 1795509653
+  "ct:F8DDA4BCFD48D39261373E686DCF3405": 1795509653,
+  "ct:B4EF3F2959EA7A0A61373E686DCF3405": 1795549452,
+  "ct:4AF6D33D9F3C6AC361373E686DCF3405": 1795549452,
+  "ct:F46EC3970EB26AAE61373E686DCF3405": 1795549452,
+  "ct:61EB0964C99007F861373E686DCF3405": 1795549452
  },
  "pendientes": {
   "67c47d23d799": {
@@ -979,35 +972,35 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1795509653,
- "ultimo_resumen": "2026-11-23",
+ "ultima_busqueda": 1795549452,
+ "ultimo_resumen": "2026-11-24",
  "acum": {
-  "nuevas": 11,
-  "enviadas": 8,
+  "nuevas": 4,
+  "enviadas": 1,
   "casi": [
    {
-    "titulo": "Asesor de Soporte Técnico BackOffice",
-    "empresa": "Asesor de Soporte Técnico BackOffice",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-de-soporte-tecnico-backoffice-trabaja-desde-casa-en-medellin-en-medellin-F01D5E160CB3D2BB61373E686DCF3405",
+    "titulo": "Analista Contable R2R",
+    "empresa": "Analista Contable R2R",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-contable-r2r-en-bogota-dc-B4EF3F2959EA7A0A61373E686DCF3405",
     "puntaje": 2
    },
    {
-    "titulo": "NOC Soporte Interno Sms (Smpp, API, SIP, A2p)",
-    "empresa": "IPCOM Colombia S.A.S.",
-    "url": "https://www.getonbrd.com/jobs/noc-soporte-interno-sms-smpp-api-sip-a2p-ipcom-colombia-s-a-s-remote",
-    "puntaje": 0
+    "titulo": "Analista de Fidelización",
+    "empresa": "Analista de Fidelización",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-fidelizacion-en-medellin-4AF6D33D9F3C6AC361373E686DCF3405",
+    "puntaje": 2
    },
    {
-    "titulo": "Analista de ventas o Analista Comercial",
-    "empresa": "Analista de ventas o Analista Comercial",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-ventas-o-analista-comercial-bogota-en-bogota-dc-2A71CA8DBACFD5B061373E686DCF3405",
-    "puntaje": -10
+    "titulo": "Asesores de call center SIN experiencia / Soporte técnico",
+    "empresa": "Asesores de call center SIN experiencia / Soporte técnico",
+    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesores-de-call-center-sin-experiencia-soporte-tecnico-posibilidad-de-trabajar-desde-casa-en-bogota-dc-F46EC3970EB26AAE61373E686DCF3405",
+    "puntaje": 2
    }
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1795509627,
-  "computrabajo": 1795509651,
-  "remotive": 1795509651
+  "getonboard": 1795549427,
+  "computrabajo": 1795549452,
+  "remotive": 1795549452
  }
 }
