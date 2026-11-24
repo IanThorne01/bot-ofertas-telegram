@@ -1,6 +1,5 @@
 {
  "vistas": {
-  "ct:0ABDAC361EE24BC461373E686DCF3405": 1792898867,
   "ct:2D880E60A0B5010D61373E686DCF3405": 1792934586,
   "ct:E8CD1BE508B0AEA261373E686DCF3405": 1792934586,
   "ct:BBA0697515AD70CF61373E686DCF3405": 1792934586,
@@ -275,7 +274,11 @@
   "ct:27837D7D5D4E614D61373E686DCF3405": 1795478064,
   "ct:F01D5E160CB3D2BB61373E686DCF3405": 1795478064,
   "ct:B6B7D5D0AA09E21F61373E686DCF3405": 1795478064,
-  "ct:EA2E43AC0F1511FD61373E686DCF3405": 1795478064
+  "ct:EA2E43AC0F1511FD61373E686DCF3405": 1795478064,
+  "ct:C90917E2A36C577961373E686DCF3405": 1795509653,
+  "ct:8D60C2547438060261373E686DCF3405": 1795509653,
+  "ct:335BD4A3CB381D7D61373E686DCF3405": 1795509653,
+  "ct:F8DDA4BCFD48D39261373E686DCF3405": 1795509653
  },
  "pendientes": {
   "67c47d23d799": {
@@ -947,6 +950,26 @@
    "titulo": "Consultor Funcional / Business Analyst – Dynamics 365 Contact Center",
    "empresa": "Consultor Funcional / Business Analyst – Dynamics 365 Contact Center",
    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-consultor-funcional-business-analyst-dynamics-365-contact-center-desarrolladora-frontend-y-tienes-experiencia-en-cells-en-bogota-dc-27837D7D5D4E614D61373E686DCF3405"
+  },
+  "4d6457e0ca7b": {
+   "titulo": "Auxiliar de monitoreo 1625983636.18",
+   "empresa": "Auxiliar de monitoreo 1625983636.18",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-monitoreo-162598363618-en-medellin-C90917E2A36C577961373E686DCF3405"
+  },
+  "ff1697125aaa": {
+   "titulo": "Auxiliar de cumplimiento",
+   "empresa": "Auxiliar de cumplimiento",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-cumplimiento-sarlaft-sagrilaft---sector-financiero-en-bogota-dc-8D60C2547438060261373E686DCF3405"
+  },
+  "35d7b8e061bf": {
+   "titulo": "auxiliar de enfermería",
+   "empresa": "auxiliar de enfermería",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-enfermeria-en-cartagena-de-indias-335BD4A3CB381D7D61373E686DCF3405"
+  },
+  "89d12ed8906a": {
+   "titulo": "Analista de datos y negocios Vacante de Inclusión para personas en condición de discapacidad",
+   "empresa": "Analista de datos y negocios Vacante de Inclusión para personas en condición de discapacidad",
+   "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-y-negocios-vacante-de-inclusion-para-personas-en-condicion-de-discapacidad-inteligencia-de-negocios-en-bogota-dc-F8DDA4BCFD48D39261373E686DCF3405"
   }
  },
  "guardadas": {},
@@ -956,11 +979,11 @@
   "getonboard": 1793947559
  },
  "pausado": false,
- "ultima_busqueda": 1795478064,
+ "ultima_busqueda": 1795509653,
  "ultimo_resumen": "2026-11-23",
  "acum": {
-  "nuevas": 7,
-  "enviadas": 4,
+  "nuevas": 11,
+  "enviadas": 8,
   "casi": [
    {
     "titulo": "Asesor de Soporte Técnico BackOffice",
@@ -983,8 +1006,8 @@
   ]
  },
  "ultima_fuente": {
-  "getonboard": 1795478038,
-  "computrabajo": 1795478062,
-  "remotive": 1795478062
+  "getonboard": 1795509627,
+  "computrabajo": 1795509651,
+  "remotive": 1795509651
  }
 }
