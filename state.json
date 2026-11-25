@@ -973,30 +973,11 @@
  },
  "pausado": true,
  "ultima_busqueda": 1795549452,
- "ultimo_resumen": "2026-11-24",
+ "ultimo_resumen": "2026-11-25",
  "acum": {
-  "nuevas": 4,
-  "enviadas": 1,
-  "casi": [
-   {
-    "titulo": "Analista Contable R2R",
-    "empresa": "Analista Contable R2R",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-contable-r2r-en-bogota-dc-B4EF3F2959EA7A0A61373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Analista de Fidelización",
-    "empresa": "Analista de Fidelización",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-fidelizacion-en-medellin-4AF6D33D9F3C6AC361373E686DCF3405",
-    "puntaje": 2
-   },
-   {
-    "titulo": "Asesores de call center SIN experiencia / Soporte técnico",
-    "empresa": "Asesores de call center SIN experiencia / Soporte técnico",
-    "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesores-de-call-center-sin-experiencia-soporte-tecnico-posibilidad-de-trabajar-desde-casa-en-bogota-dc-F46EC3970EB26AAE61373E686DCF3405",
-    "puntaje": 2
-   }
-  ]
+  "nuevas": 0,
+  "enviadas": 0,
+  "casi": []
  },
  "ultima_fuente": {
   "getonboard": 1795549427,
