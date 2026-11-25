@@ -966,12 +966,12 @@
   }
  },
  "guardadas": {},
- "offset": 675255173,
+ "offset": 675255174,
  "avisos": {
   "linkedin": 1792801353,
   "getonboard": 1793947559
  },
- "pausado": false,
+ "pausado": true,
  "ultima_busqueda": 1795549452,
  "ultimo_resumen": "2026-11-24",
  "acum": {
